@@ -1,5 +1,6 @@
 data/
-results/replace_test.json
+results/replace_test_02_06_20.json
+results/replaced_links.json
 check.txt
 results.txt
 venv/

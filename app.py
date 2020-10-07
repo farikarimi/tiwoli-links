@@ -15,7 +15,7 @@ log = open(f'results/log_{datetime.datetime.today().date()}.txt', 'a')
 log.seek(0)
 log.truncate()
 
-missing_quote_links = open(f'results/missing_quote_links{datetime.datetime.today().date()}.txt', 'a')
+missing_quote_links = open(f'results/missing_quote_links_{datetime.datetime.today().date()}.txt', 'a')
 missing_quote_links.seek(0)
 missing_quote_links.truncate()
 
@@ -164,14 +164,15 @@ def main():
     quotes = read_json('data/tiwolij.json')
     print(len(quotes), 'quotes in total\n')
     updated_quotes = replace_links(quotes)
-    print_both('\n', len(quotes), 'quotes in database.\n')
     update_json(path='results/replaced_links.json', content=updated_quotes)
 
     end = timer()
-    print('\number of accurate links:', len(id_link_dict))
-    print_both('\nellapsed time: ', math.ceil((end - start) / 60), 'minutes')
+    print('\nnumber of accurate links:', len(id_link_dict))
+    print_both('number of quotes in database:', len(quotes))
     print_both('number of quotes with obsolete links:', obsolete_links)
-    print_both('number of repaired links:', generated_links)
+    print_both('number of repaired links:', quotes_found)
+    print_both('time elapsed:', math.ceil((end - start) / 60), 'minutes')
+
     log.close()
     missing_quote_links.close()
 
