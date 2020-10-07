@@ -1,0 +1,8 @@
+data/
+results/replace_test.json
+check.txt
+results.txt
+venv/
+/results/log.txt
+.idea/
+.DS_Store

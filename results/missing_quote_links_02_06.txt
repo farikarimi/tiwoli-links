@@ -1,0 +1,1024 @@
+title from JSON: Theater
+author: Hermann Bahr
+quote: Dann fing er an, von meinem neuen Stücke zu sprechen, es werde nun doch Zeit; er wolle mich nicht drängen, aber es sei ja in meinem Interesse. Ich gestand, daß ich eigentlich die ganze Zeit nichts getan hatte. Ich war sehr kleinlaut. Er sagte: »Aber ich bitt’ Sie! Ich möchte das Stück bis Mitte Februar haben, heute ist der erste Jänner, das sind sechs Wochen, der Shakespeare hat zum ganzen Hamlet nicht länger gebraucht, und man verlangt gar keinen Hamlet von Ihnen. Schreiben’s halt was!
+first 50 characters of quote: Dann fing er an, von meinem neuen Stücke zu sprech
+book URLs:['https://www.projekt-gutenberg.org/bahr/theater']
+
+*****************************************************************************
+
+title from JSON: Herr Parent
+author: Guy de Maupassant
+quote: Da bekam gerade gegen Weihnachten des Jahres die Frau meines Gärtners einen Jungen.Der Mann kam und bat mich, Pate zu stehen. Ich konnte es nicht abschlagen. Und er borgte von mir sofort zehn Franken für die Kirchengebühren, wie er sagte.Die Feier fand am 2. Januar statt. (…)Um neun Uhr früh erschien der Vater Kerandec vor meiner Thür mit seiner Schwägerin, der großen Kermagan, und der Wärterin, die das in eine Decke gehüllte Kind trug.Und nun gingen wir zur Kirche. Es war so kalt, daß man dachte, die Hünengräber müßten aufspringen, eine Kälte, die die Haut platzen macht.
+first 50 characters of quote: Da bekam gerade gegen Weihnachten des Jahres die F
+book URLs:['https://www.projekt-gutenberg.org/maupassa/parent']
+
+*****************************************************************************
+
+title from JSON: Das Tal der Angst
+author: Arthur Conan Doyle
+quote: »Das kommt davon, Watson, wenn man allzusehr auf der Höhe ist. Wir sind unserer Zeit voraus und müssen, wie üblich, dafür büßen. Es ist heute der 7. Januar, und wir haben natürlich schon die neue Ausgabe des Almanachs.«
+first 50 characters of quote: »Das kommt davon, Watson, wenn man allzusehr auf d
+book URLs:['https://www.projekt-gutenberg.org/doyle/talgrau']
+
+*****************************************************************************
+
+title from JSON: Sonnenfinsternis
+author: Arno Holz
+quote: HOLLRIEDER (wieder vor dem Kalender): Elfter Januar! (mit beiden Unterarmen und den ohnmächtig geballten Fäusten gegen die Wand schlagend) Elfter Januar!! … Als ob sich alles gegen einen verschworen hätte! …
+first 50 characters of quote: HOLLRIEDER (wieder vor dem Kalender): Elfter Janua
+book URLs:['https://www.projekt-gutenberg.org/holz/sonnenfi']
+
+*****************************************************************************
+
+title from JSON: Der Improvisator
+author: Hans Christian Andersen
+quote: Es herrschte damals in der Jesuitenschule, wie noch heute in der Propaganda auf dem spanischen Platze, die Sitte, daß am 13. Januar »in onore dei sancti re magi« der größte Teil der Eleven als Deklamatoren auftreten, jeder mit einem Gedichte in einer der verschiedenen Sprachen, welche hier getrieben wurden, oder die sie nach Geburt und Heimat redeten. Wir konnten selbst einen Stoff auswählen, der allerdings der Censur unserer Lehrer unterworfen war, welche uns die Erlaubnis zur Ausarbeitung erteilen mußten.
+first 50 characters of quote: Es herrschte damals in der Jesuitenschule, wie noc
+book URLs:['https://www.projekt-gutenberg.org/andersen/improvis']
+
+*****************************************************************************
+
+title from JSON: Schnee
+author: Alexander Lange Kielland
+quote: Der Vogt war auch herangetreten; er grüßte in seiner polternden, scherzhaften Weise, und als seine Gattin es versuchte, seiner Lebhaftigkeit einen Dämpfer aufzusetzen, indem sie von dem bedrückenden Wetter sprach, versicherte er laut und eifrig, sein Barometer habe, der Teufel hole ihn, seit dem Sturme vom fünfzehnten Januar nicht so niedrig gestanden.
+first 50 characters of quote: Der Vogt war auch herangetreten; er grüßte in sein
+book URLs:['https://www.projekt-gutenberg.org/fallada/2zarte']
+
+*****************************************************************************
+
+title from JSON: 20.000 Meilen unter dem Meer
+author: Jules Verne
+quote: Am folgenden Tage, den 26. Januar, durchschnitten wir unter’m zweiundachtzigsten Meridian den Aequator und kamen wieder auf die nördliche Hemisphäre. Während dieses Tages hatten wir eine fürchterliche Schaar von Haifischen im Gefolge, Ungeheuer, die in diesen Meeren massenweise vorkommen und sie sehr gefährlich machen. Oft schossen diese gewaltigen Thiere mit beunruhigendem Ungestüm wider die Fenster des Salon.
+first 50 characters of quote: Am folgenden Tage, den 26. Januar, durchschnitten 
+book URLs:['https://www.projekt-gutenberg.org/verne/zwanzig1', 'https://www.projekt-gutenberg.org/verne/zwanzig2']
+
+*****************************************************************************
+
+title from JSON: Die drei Musketiere
+author: Alexandre Dumas der Ältere
+quote: D’Artagnan gab sich für einen französischen Handwerker aus und schlug die Nägel so regelmäßig ein, als wäre er der geschickteste Tapezierer. Aramis schnitt das Überflüssige vom Zeuge ab, das bis zur Erde herabhing und hinter dem sich das Blutgerüste erhob. Die Morgenstrahlen erschienen an den Giebeln der Häuser; ein großes Feuer von Torf und Holz diente den Arbeitern, jene so kalte Nacht vom 29. zum 30. Januar zuzubringen, und alle Augenblicke unterbrachen sich die Eifrigsten in der Arbeit, um sich wieder zu wärmen.
+first 50 characters of quote: D’Artagnan gab sich für einen französischen Handwe
+book URLs:['https://www.projekt-gutenberg.org/dumasalt/musket', 'https://www.projekt-gutenberg.org/dumasalt/musket-1', 'https://www.projekt-gutenberg.org/dumasalt/musket-2', 'https://www.projekt-gutenberg.org/dumasalt/musket10']
+
+*****************************************************************************
+
+title from JSON: Titan
+author: Jean Paul
+quote: Denn morgen grünt für mich der Vor-Lenz, nämlich der erste Februar, dieser Sonnabend der Lichtmeß. Schon mehrere erfrierende Deutschländer müssen mit mir im Hornung die Aurora des Frühlings wenigstens an den schnellwüchsigen Tagen gefunden haben. Hängt nicht da schon das erste Frühlingslied im kalten Äther, die erste flatternde Lerche? Klettert und schleifet nicht jetzt ein Zaunkönig auf einem schwarzen, unter der Sonne tropfenden Aste hinauf und zirpet, von hellen Strahlen warm vergoldet, sein Winter-Solo?
+first 50 characters of quote: Denn morgen grünt für mich der Vor-Lenz, nämlich d
+book URLs:['https://www.projekt-gutenberg.org/braun/titanen']
+
+*****************************************************************************
+
+title from JSON: Die drei Musketiere
+author: Alexandre Dumas der Ältere
+quote: Er hob das Tischtuch auf und las die folgenden Hieroglyphen, welche mit einer Messerklinge tief in das Holz eingeschnitten waren:Port… – D’Art… – 2. Februar.»Vortrefflich!« rief Athos, während er Aramis diese Schrift zeigte; »wir wollten hier übernachten, doch das ist unnütz, wir ziehen weiter.« Somit setzten sie ihre Reise wieder fort.
+first 50 characters of quote: Er hob das Tischtuch auf und las die folgenden Hie
+book URLs:['https://www.projekt-gutenberg.org/dumasalt/musket', 'https://www.projekt-gutenberg.org/dumasalt/musket-1', 'https://www.projekt-gutenberg.org/dumasalt/musket-2', 'https://www.projekt-gutenberg.org/dumasalt/musket10']
+
+*****************************************************************************
+
+title from JSON: Abenteuer des Kapitän Hatteras
+author: Jules Verne
+quote: Die Brigg nahm auf dem Werft allmälig ihre Gestalt an, und ihre Stärke wie Feinheit setzten die Kenner in Erstaunen. (…)Am 5. Februar 1860 wurde das seltsame Schiff im Angesicht einer ungeheuern Zuschauermenge vom Stapel gelassen, was vollkommen gelang.
+first 50 characters of quote: Die Brigg nahm auf dem Werft allmälig ihre Gestalt
+book URLs:['https://www.projekt-gutenberg.org/verne/hattera1', 'https://www.projekt-gutenberg.org/verne/hattera2']
+
+*****************************************************************************
+
+title from JSON: Der Schüdderump
+author: Wilhelm Raabe
+quote: »Mein Herr von Glaubigern, Sie haben mich überrascht; aber Sie machen mich heute stolzer als je auf Ihre Bekanntschaft und Achtung. Mein Herr von Glaubigern, wir haben einander oft mißverstanden, und ich glaube nicht, daß die Schuld immer auf meiner Seite lag: in diesem Augenblick verstehen wir uns, vielleicht zum erstenmal in unserm Leben, vollkommen. Sie machen mich heute sehr glücklich, Herr Chevalier, und ich rechne es mir für eine Ehre an, daß ich seit dem sechsten Februar des Jahres achtzehnhundertsechzehn meine Tage in Ihrer werten Gesellschaft hinbringen durfte; aber – glauben Sie wirklich, Ihren Kräften diese weite Reise zutrauen zu dürfen?«
+first 50 characters of quote: »Mein Herr von Glaubigern, Sie haben mich überrasc
+book URLs:['https://www.projekt-gutenberg.org/raabe/schuedde']
+
+*****************************************************************************
+
+title from JSON: Die Hauptmannstochter
+author: Alexander Sergejewitsch Puschkin
+quote: »Besagter Fähnrich Grinew stand in Orenburg im Dienst vom Anfang Oktober des vorigen 1773er Jahres bis zum 27. Februar des laufenden Jahres, an welchem Tage er sich aus der Stadt entfernte und seit der Zeit nicht mehr unter meinem Kommando gewesen ist. Den Aussagen von Überläufern jedoch konnte man entnehmen, daß er im Hauptquartier Pugatschows geweilt habe und ferner mit ihm zusammen nach der Festung Bjelogorsk gereist sei, wo Besagter vormals im Dienst stand; bezüglich seiner Aufführung kann ich…«
+first 50 characters of quote: »Besagter Fähnrich Grinew stand in Orenburg im Die
+book URLs:['https://www.projekt-gutenberg.org/puschkin/hauptman']
+
+*****************************************************************************
+
+title from JSON: Das Rosazimmer
+author: Eufemia von Adlersfeld-Ballestrem
+quote: »Gern«, entgegnete Windmüller mit einem Blick auf die Uhr. »Die Sache ist eigentlich von größter Einfachheit – wenn man sie erst weg hat. Das Datum war’s, das mir auf die Spur half – das Datum vom 27. Februar auf einem frischen Papier mit ebenso frischer Tinte geschrieben – und dieser Zettel in einem Kleide, das erst vor ein paar Tagen vom Schneider aus Paris gekommen ist.
+first 50 characters of quote: »Gern«, entgegnete Windmüller mit einem Blick auf 
+book URLs:['https://www.projekt-gutenberg.org/adlersfe/rosazimm']
+
+*****************************************************************************
+
+title from JSON: Der Graf von Monte Christo
+author: Alexandre Dumas der Ältere
+quote: Ich weiß mein Alter nicht, denn ich habe die Zeit, seitdem ich hier bin, nicht messen können. Ich weiß nur, daß ich neunzehn Jahre alt war, als ich am 28. Februar 1815 verhaftet wurde.
+first 50 characters of quote: Ich weiß mein Alter nicht, denn ich habe die Zeit,
+book URLs:['https://www.projekt-gutenberg.org/dumasalt/montchr1', 'https://www.projekt-gutenberg.org/dumasalt/montchr2', 'https://www.projekt-gutenberg.org/dumasalt/montchr3', 'https://www.projekt-gutenberg.org/dumasalt/montchr4', 'https://www.projekt-gutenberg.org/dumasalt/montchr5', 'https://www.projekt-gutenberg.org/dumasalt/montchr6', 'https://www.projekt-gutenberg.org/dumasalt/montechr']
+
+*****************************************************************************
+
+title from JSON: Der Hungerpastor
+author: Wilhelm Raabe
+quote: Der achtundzwanzigste Februar fiel auf einen Sonntag, und es regnete an diesem Sonntage fast ununterbrochen. Die nächste Kirche war eine Stunde von Kohlenau entfernt, und der Weg dahin war bei solchem Wetter mit so großen Beschwerden verbunden, daß der Pastor an solchen Tagen seine Predigt so ziemlich für sich und seinen Küster allein hielt. Auch Hans Unwirrsch hatte sich von derartigem Wetter öfters abhalten lassen, die schönen Reden anzuhören; aber in seiner jetzigen Stimmung zog er den schlimmsten Weg dem ruhelosen Stillsitzen im Hause vor.
+first 50 characters of quote: Der achtundzwanzigste Februar fiel auf einen Sonnt
+book URLs:['https://www.projekt-gutenberg.org/raabe/hungerpa']
+
+*****************************************************************************
+
+title from JSON: Etzel Andergast
+author: Jakob Wassermann
+quote: So vergeht der Januar, der Februar, und das alles ist erst der Anfang.Am zweiten März hielt Kerkhoven den Vortrag über die Jugendneurosen, der schon im September hätte stattfinden sollen und dann verschoben wurde. Marie saß mit Etzel in einer der vordersten Reihen. Sie hatte ihren Mann noch nie öffentlich sprechen hören und hatte lächerliches Lampenfieber. Der Saal war zum Bersten voll, die Wirkung auf die lautlose Zuhörerschaft höchst eigentümlich, nicht als wohne sie einer wissenschaftlichen Ausführung bei, sondern einer unerwarteten Offenbarung.
+first 50 characters of quote: So vergeht der Januar, der Februar, und das alles 
+book URLs:['https://www.projekt-gutenberg.org/wasserma/andergst', 'https://www.projekt-gutenberg.org/wasserma/etzeland']
+
+*****************************************************************************
+
+title from JSON: Wer ist schuld?
+author: Alexander Iwanowitsch Herzen
+quote: Ich glaube, heut ist der dritte März, sagt jemand, der befürchtet, er könnte einen Auctionstermin versäumen. – Der dritte März. Jawohl, der dritte März, antwortet ein anderer, und seine Gedanken führen ihn acht Jahre zurück. Er erinnert sich des ersten Wiedersehens nach einer Trennung, er erinnert sich all der Einzelheiten, und mit einem gewissen feierlichen Gefühl setzt er hinzu: Gerade acht Jahre sind es heut! Und er fürchtet sich, diesen Tag zu verderben; er fühlt, daß heut ein Feiertag sei, und es kommt ihm nicht in den Sinn, daß es am dreizehnten März gerade acht Jahre und zehn Tage sein werden, und daß jeder Tag in seiner Art ein Jahrestag ist. So war es auch mit Frau Beltoff.
+first 50 characters of quote: Ich glaube, heut ist der dritte März, sagt jemand,
+book URLs:['https://www.projekt-gutenberg.org/herzen/schuld']
+
+*****************************************************************************
+
+title from JSON: Die Kartause von Parma
+author: Stendhal
+quote: Am 8. März, um sechs Uhr früh, ließ sich der Marchese, seine Orden auf der Brust, von seinem ältesten Sohne den Entwurf einer dritten politischen Depesche diktieren und brachte sie würdevoll in seiner wohlgepflegten Handschrift ins reine. Das Papier trug als Wasserzeichen das Bildnis des Kaisers.
+first 50 characters of quote: Am 8. März, um sechs Uhr früh, ließ sich der March
+book URLs:['https://www.projekt-gutenberg.org/stendhal/kartause']
+
+*****************************************************************************
+
+title from JSON: Der Hungerpastor
+author: Wilhelm Raabe
+quote: Wenig mehr stand in dem Brief, als daß sich der Herr Kandidat am achten März, mittags um zwölf Uhr weniger fünfzehn Minuten – pünktlich und persönlich dem Geheimen Rat vorstellen möge; aber auch dieses wenige genügte, um die schwerste Last der Ungewißheit von der Brust des armen Hans abzuwälzen. Tief aufatmete der Befreite, und dann setzte er seinen Weg fort; er schwebte jetzt über den Dreck, und nach seiner Heimkehr verwendete er den Nachmittag dazu, seine Habseligkeiten zusammenzupacken.
+first 50 characters of quote: Wenig mehr stand in dem Brief, als daß sich der He
+book URLs:['https://www.projekt-gutenberg.org/raabe/hungerpa']
+
+*****************************************************************************
+
+title from JSON: Die Arbeiter des Meeres
+author: Victor Hugo
+quote: Dieser Brief kam über’s Meer, war an Mess Lethierry adressirt und trug den Poststempel Lisboa. (…)Er öffnete den Brief und las Folgendes:»Auf hoher See am zehnten März.»Mess Lethierry, aus St.-Sampson.»Sie werden mit Vergnügen von mir hören:»Ich bin auf dem Tamaulipas; auf einer Reise, von welcher ich nicht zurückkehren werde. (…)«Beim Berühren eines Zitteraales oder einer geladenen Leydener Flasche fühlt man ungefähr ein Aehnliches, als was Mess Lethierry beim Lesen dieses Briefes empfand.
+first 50 characters of quote: Dieser Brief kam über’s Meer, war an Mess Lethierr
+book URLs:['https://www.projekt-gutenberg.org/hugo/meerarbe']
+
+*****************************************************************************
+
+title from JSON: Die Beichte eines Toren
+author: August Strindberg
+quote: Eine kurze Siesta gab mir meine Kräfte wieder, und ich betrachtete den an der Wand hängenden Kalender. Der 13. März! »Nimm vor des Märzen Iden dich in Acht«, so hörte ich vor meinen Ohren die berühmten Worte aus Shakespeares Julius Cäsar erklingen; in diesem Augenblicke trat das Dienstmädchen ein und überbrachte mir ein Billet von dem Baron.Er forderte mich auf, den Abend bei ihm zu verleben, da die Baronin unwohl sei und Mathilde einen Besuch machen würde.Mir fehlt die Kraft zu widerstehen, und ich begebe mich in das Haus des Barons.
+first 50 characters of quote: Eine kurze Siesta gab mir meine Kräfte wieder, und
+book URLs:['https://www.projekt-gutenberg.org/strindbe/beichte']
+
+*****************************************************************************
+
+title from JSON: Der Weg durch die Luft
+author: Konstantin Dmitrijewitsch Balmont
+quote: Wir erwachten am nächsten Tag früher als gewöhnlich. Um elf Uhr war Melitta noch immer am Teetisch, ich saß an einem anderen Tisch und versuchte das Buch Johannes Scherrs vom jungen Goethe zu lesen; es ging aber nicht. Ich sehe noch so deutlich jenen dreizehnten März vor mir, und keine Macht der Welt könnte in mir diese Erinnerung austilgen. Ich hatte einen Entschluß gefaßt, der mir selbst noch unbekannt war. Ich befand mich in einer sonderbar feierlichen Stimmung.
+first 50 characters of quote: Wir erwachten am nächsten Tag früher als gewöhnlic
+book URLs:['https://www.projekt-gutenberg.org/balmont/wegluft']
+
+*****************************************************************************
+
+title from JSON: Lebens-Ansichten des Katers Murr
+author: E. T. A. Hoffmann
+quote: Des Märzen Idus war angebrochen, die schönen milden Strahlen der Frühlingssonne fielen auf das Dach, und ein sanftes Feuer durchglühte mein Inneres. Schon seit ein paar Tagen hatte mich eine unbeschreibliche Unruhe, eine unbekannte, wunderbare Sehnsucht geplagt, – jetzt wurde ich ruhiger, doch nur um bald in einen Zustand zu geraten, den ich niemals geahnt! –
+first 50 characters of quote: Des Märzen Idus war angebrochen, die schönen milde
+book URLs:['https://www.projekt-gutenberg.org/etahoff/murr1', 'https://www.projekt-gutenberg.org/etahoff/murr']
+
+*****************************************************************************
+
+title from JSON: Heinrich von Ofterdingen
+author: Novalis
+quote: (Der alte böhmische Schatzgräber berichtet:) »Mein alter Meister freute sich über meine innige Lust, und verhieß mir, daß ich bei diesem Fleiße und dieser Aufmerksamkeit es weit bringen, und ein tüchtiger Bergmann werden würde. Mit welcher Andacht sah ich zum erstenmal in meinem Leben am sechzehnten März, vor nunmehr fünfundvierzig Jahren, den König der Metalle in zarten Blättchen zwischen den Spalten des Gesteins.«
+first 50 characters of quote: (Der alte böhmische Schatzgräber berichtet:) »Mein
+book URLs:['https://www.projekt-gutenberg.org/lienhard/ofterdin']
+
+*****************************************************************************
+
+title from JSON: Der Zusammenbruch
+author: Émile Zola
+quote: Als er am 18. März aufstand, erhielt er einen Brief von Henriette, in dem sie ihn wieder einmal anflehte, sie in Remilly zu treffen, und ihm zärtlich drohte, sie würde sich selbst auf den Weg machen, wenn er zu lange damit wartete, ihr diese große Freude zu machen.
+first 50 characters of quote: Als er am 18. März aufstand, erhielt er einen Brie
+book URLs:['https://www.projekt-gutenberg.org/huchric/30jahre3']
+
+*****************************************************************************
+
+title from JSON: Der Glöckner von Notre-Dame
+author: Victor Hugo
+quote: In diesem gnadenbringenden Jahre vierzehnhundertzweiundachtzig fiel das Fest der Verkündigung Mariä gerade auf den fünfundzwanzigsten März, einen Dienstag. An jenem Tage war die Luft so rein und mild, daß Quasimodo etwas Liebe zu seinen Glocken zurückkehren fühlte. Er stieg also auf den nördlichen Thurm, während unten der Kirchendiener ganz weit die Thüren der Kirche öffnete, die damals aus ungeheuern Flügeln von dickem, mit Leder überzogenem Holze bestanden, mit Nägeln aus vergoldetem Eisen beschlagen und von »sehr kunstvoll gearbeiteten« Schnitzereien umrahmt waren.
+first 50 characters of quote: In diesem gnadenbringenden Jahre vierzehnhundertzw
+book URLs:['https://www.projekt-gutenberg.org/hugo/notreda1', 'https://www.projekt-gutenberg.org/hugo/notre-2']
+
+*****************************************************************************
+
+title from JSON: Hiob
+author: Joseph Roth
+quote: Am sechsundzwanzigsten März, endlich, fuhren die beiden Brüder nach Targi. Sie zogen beide das Los. Beide waren tadellos und gesund. Beide wurden genommen.Noch einen Sommer durften sie zu Hause verbringen. Im Herbst sollten sie einrücken.
+first 50 characters of quote: Am sechsundzwanzigsten März, endlich, fuhren die b
+book URLs:['https://www.projekt-gutenberg.org/roth/hiob']
+
+*****************************************************************************
+
+title from JSON: Der arme Mann im Tockenburg
+author: Ulrich Bräker
+quote: Nachdem ich nun, wie gesagt, den Winter über alle nur mögliche Anstalten zu meinem Bauen gemacht, das Holz auf den Platz geschleift, und der Frühling nun herbeyrückte, langten auch meine Zimmerleuthe an, auf den Tag, wie sie mir’s versprochen hatten. (…) Es war den 27. Merz, da die Selle zu meiner Hütte gelegt wurde, bey sehr schönem Wetter, das auch bis Mitte Aprills dauerte, da die Arbeit durch eingefallnen grossen Schnee einige Tage unterbrochen ward.
+first 50 characters of quote: Nachdem ich nun, wie gesagt, den Winter über alle 
+book URLs:['https://www.projekt-gutenberg.org/braeker/tocken']
+
+*****************************************************************************
+
+title from JSON: Der Glöckner von Notre-Dame
+author: Victor Hugo
+quote: »Endlich gestehet und bekennt Ihr, mit Hilfe des Teufels und des Gespenstes, welches vom Volke ›der gespenstige Mönch‹ genannt wird, in der Nacht des letzten neunundzwanzigsten März einen Hauptmann, Phöbus von Châteaupers mit Namen, erdolcht und ermordet zu haben?«Sie erhob ihre großen starren Augen auf den Beamten und antwortete wie mechanisch, ohne Zuckung und ohne Zittern: »Ja.« – Es war offenbar, daß ihr ganzes Innere gebrochen war.»Schreibt, Gerichtsschreiber«, sagte Charmolue.
+first 50 characters of quote: »Endlich gestehet und bekennt Ihr, mit Hilfe des T
+book URLs:['https://www.projekt-gutenberg.org/hugo/notreda1', 'https://www.projekt-gutenberg.org/hugo/notre-2']
+
+*****************************************************************************
+
+title from JSON: Haß
+author: Artur Landsberger
+quote: Jetzt wandte er sich zu Stoelping und sagte laut:»Demnach war ich vom 29. März bis 1. April in Paris.«»Und zu welchem Zweck?«»Ich hatte am 31. März im Deutsch-Französischen Literaturverein einen Vortrag zu halten.«»So!« sagte Stoelping.»Wenn es Sie interessiert: Über Max Reinhardts Einfluß auf das deutsche Theater.«»Haben Sie dafür Beweise?« fragte Stoelping ungeduldig.»Beweise! Nun, ich glaube wohl, daß es mir gelungen ist, den Nachweis zu erbringen, daß gerade Reinhardts Einfluß…«»Sie irren!« unterbrach ihn Stoelping grob. »Hier ist kein literarisches Kollegium. Sie stehen hier unter der Anklage des Mordes!«
+first 50 characters of quote: Jetzt wandte er sich zu Stoelping und sagte laut:»
+book URLs:['https://www.projekt-gutenberg.org/birt/hasslieb']
+
+*****************************************************************************
+
+title from JSON: Der Jüngling
+author: Fjodor Michailowitsch Dostojewski
+quote: Marja Iwanowna feierte am ersten April vorigen Jahres ihren Namenstag. Am Abend waren einige Gäste da, nur sehr wenige Personen. Auf einmal kommt Agrafena ganz atemlos herein und sagt, im Flur vor der Küche schreie ein ausgesetztes kleines Kind und sie wisse nicht, was sie tun solle.
+first 50 characters of quote: Marja Iwanowna feierte am ersten April vorigen Jah
+book URLs:['https://www.projekt-gutenberg.org/dostojew/juenglin']
+
+*****************************************************************************
+
+title from JSON: Gullivers Reisen
+author: Jonathan Swift
+quote: Ich will den Leser mit einer besondern Beschreibung dieser Reise nicht langweilen, welche im Ganzen sehr glücklich war. Wir langten am 2. April 1702 in den Dünen an. Ich erlitt nur ein einziges Unglück. Die Ratten des Schiffs fraßen mir nämlich einen meiner Schafböcke.
+first 50 characters of quote: Ich will den Leser mit einer besondern Beschreibun
+book URLs:['https://www.projekt-gutenberg.org/swift/gulliver']
+
+*****************************************************************************
+
+title from JSON: Im gewohnten Geleis
+author: Ossip Schubin
+quote: Bald darauf schieden die beiden. Marie war ein wenig unzufrieden mit ihrem Gatten – sie fand, daß er ihren Landsmann und Vetter zu streng beurteilte.Das Diner war am zweiten April gewesen.
+first 50 characters of quote: Bald darauf schieden die beiden. Marie war ein wen
+book URLs:['https://www.projekt-gutenberg.org/schubin/geleise']
+
+*****************************************************************************
+
+title from JSON: The Unparalleled Adventure of One Hans Pfaall
+author: Edgar Allan Poe
+quote: 3. April. Ich stellte fest, daß der Ballon eine gewaltige Höhe erreicht hatte, und die Konvexität der Erde zeigte sich nun verblüffend deutlich. Unter mir im Ozean lag ein Haufen schwarzer Punkte, zweifellos Inseln. Über mir war der Himmel tiefschwarz, und die Sterne waren strahlend sichtbar – waren es seit dem Tage meines Aufstiegs geblieben. Weit fort im Norden bemerkte ich einen dünnen, weißen, äußerst leuchtenden Strich oder Streifen am Horizontrand, und ich vermutete ohne weiteres, daß dies die südliche Grenze des Polareismeeres sei.
+first 50 characters of quote: 3. April. Ich stellte fest, daß der Ballon eine ge
+book URLs:['https://www.projekt-gutenberg.org/poe/pfaal']
+
+*****************************************************************************
+
+title from JSON: Leutnant Gustl
+author: Arthur Schnitzler
+quote: Das ist nicht schlecht, jetzt bin ich gar im Prater… mitten in der Nacht… das hätt’ ich mir auch nicht gedacht in der Früh’, daß ich heut’ nacht im Prater spazieren geh’n werd’… (…) Was riecht denn da so eigentümlich?… Es kann doch noch nichts blühen?… Was haben wir denn heut’? – Den vierten April… freilich, es hat viel geregnet in den letzten Tagen… aber die Bäume sind beinah’ noch ganz kahl und dunkel ist es, hu! Man könnt’ schier Angst kriegen.
+first 50 characters of quote: Das ist nicht schlecht, jetzt bin ich gar im Prate
+book URLs:['https://www.projekt-gutenberg.org/schnitzl/gustl']
+
+*****************************************************************************
+
+title from JSON: Stadt und Gebirg
+author: José Maria Eça de Queiroz
+quote: »Wach auf, Mensch! Reisen wir nach Tormes! Das Haus muß mittlerweile fertig sein, glänzend, überlaufend von Sachen! Die Gebeine deiner Ahnen verlangt es nach ewiger Ruhe in eigner Gruft! Auf! laß uns die Toten begraben und uns, die Lebenden, leben! Zum Teufel! Wir haben den fünften April! … Das ist die rechte Zeit fürs Gebirg!«
+first 50 characters of quote: »Wach auf, Mensch! Reisen wir nach Tormes! Das Hau
+book URLs:['https://www.projekt-gutenberg.org/queiroz/stadtgeb']
+
+*****************************************************************************
+
+title from JSON: The Unparalleled Adventure of One Hans Pfaall
+author: Edgar Allan Poe
+quote: 9. April. Der Erddurchmesser verringerte sich heute abermals sehr, und die Farbe der Oberfläche nahm stündlich ein dunkleres Gelb an. Der Ballon hielt unaufhaltsam seinen südlichen Kurs ein und gelangte um neun Uhr abends über den Nordrand des mexikanischen Golfes.
+first 50 characters of quote: 9. April. Der Erddurchmesser verringerte sich heut
+book URLs:['https://www.projekt-gutenberg.org/poe/pfaal']
+
+*****************************************************************************
+
+title from JSON: The Unparalleled Adventure of One Hans Pfaall
+author: Edgar Allan Poe
+quote: 10. April. Heute morgen wurde ich gegen fünf Uhr plötzlich durch ein lautes, furchtbar krachendes Geräusch aufgeschreckt, das ich mir in keiner Weise zu erklären wußte. Es war von sehr kurzer Dauer, ließ sich aber mit keinem mir von der Erde her bekannten Geräusch vergleichen. Es ist überflüssig, zu sagen, daß ich ungemein in Bestürzung geriet und im ersten Moment glaubte, der Ballon sei zerplatzt.
+first 50 characters of quote: 10. April. Heute morgen wurde ich gegen fünf Uhr p
+book URLs:['https://www.projekt-gutenberg.org/poe/pfaal']
+
+*****************************************************************************
+
+title from JSON: The Unparalleled Adventure of One Hans Pfaall
+author: Edgar Allan Poe
+quote: 11. April. Fand eine verblüffende Abnahme des Erddurchmessers und nun zum erstenmal eine beträchtliche Zunahme des Durchmessers des Mondes, der in wenigen Tagen seine volle Rundung erreichen mußte. Es bedurfte jetzt recht langer und anstrengender Arbeit, um die zur Erhaltung meines Lebens nötige Atmosphärendichtigkeit in meiner Kautschukzelle zu erzielen.
+first 50 characters of quote: 11. April. Fand eine verblüffende Abnahme des Erdd
+book URLs:['https://www.projekt-gutenberg.org/poe/pfaal']
+
+*****************************************************************************
+
+title from JSON: Moschko von Parma
+author: Karl Emil Franzos
+quote: So verbrachte er denn auch die beiden nächsten Tage ruhig in der Schmiede; einer der wenigen Menschen in Barnow und Umgebung, welche auf die Zeichen der nahenden Gefahr nicht weiter achteten. Am vierzehnten April umstanden die Leute die gedeckte Reitschule und sahen zu, wie der verwahrloste Raum von den Gefangenen des Dominialgerichts reingefegt wurde.
+first 50 characters of quote: So verbrachte er denn auch die beiden nächsten Tag
+book URLs:['https://www.projekt-gutenberg.org/franzos/moschko']
+
+*****************************************************************************
+
+title from JSON: Der Leu
+author: Christian Morgenstern
+quote: Auf einem Wandkalenderblattein Leu sich abgebildet hat.Er blickt dich an, bewegt und still,den ganzen 17. April.Wodurch er zu erinnern liebt,daß es ihn immerhin noch gibt.
+first 50 characters of quote: Auf einem Wandkalenderblattein Leu sich abgebildet
+book URLs:['https://www.projekt-gutenberg.org/seitz/thorde']
+
+*****************************************************************************
+
+title from JSON: The Unparalleled Adventure of One Hans Pfaall
+author: Edgar Allan Poe
+quote: 18. April. Heute fand ich den Umfang des Mondes um vieles vergrößert, und meine Fallgeschwindigkeit, die unbedingt gestiegen war, erfüllte mich mit Besorgnis. Man wird sich erinnern, daß ich bei meinen ersten Berechnungen über die Möglichkeit einer Reise zum Mond das Vorhandensein einer in ihrer Dichtigkeit dem Volumen des Himmelskörpers entsprechenden Atmosphäre angenommen hatte, dies sogar trotz vieler gegenteiliger Theorien und, wie man hinzufügen kann, trotz der allgemeinen Annahme, daß es überhaupt keine Mondatmosphäre gäbe.
+first 50 characters of quote: 18. April. Heute fand ich den Umfang des Mondes um
+book URLs:['https://www.projekt-gutenberg.org/poe/pfaal']
+
+*****************************************************************************
+
+title from JSON: Das Geld
+author: Émile Zola
+quote: So kam die Zeit der ersten Generalversammlung heran. Sie war auf den 25. April festgesetzt worden. Am 20. April traf Hamelin aus dem Orient ein, um in der Generalversammlung den Vorsitz zu führen, in aller Eile von Saccard heimberufen, der in dem zu eng gewordenen Hause schier erstickte. Er brachte übrigens ausgezeichnete Nachrichten: die Verträge zur Bildung der Vereinigten Packetschifffahrts-Gesellschaft waren abgeschlossen; auch hatte er die Konzessionen in der Tasche, welche einer französischen Gesellschaft das Recht der Ausbeutung der Silberminen des Karmel zusicherten; ganz abgesehen von der türkischen Nationalbank, deren Grundlagen er in Konstantinopel niedergelegt hatte und welche eine wahre Zweiggründung der Universalbank werden sollte.
+first 50 characters of quote: So kam die Zeit der ersten Generalversammlung hera
+book URLs:['https://www.projekt-gutenberg.org/chester/geldstra']
+
+*****************************************************************************
+
+title from JSON: Marionetten
+author: Arthur Schnitzler
+quote: EDUARD: Willst du nicht Platz nehmen? (Georg bleibt stehen.) Nun, Georg, weißt du auch, wie lange es her ist? Mehr als elf Jahre… jawohl, mehr als elf Jahre haben wir einander nicht gesehen. Und das Sonderbare ist, daß es gerade gestern elf Jahre waren.GEORG: Gestern?EDUARD: Ja, ich weiß, daß es gerade der achtundzwanzigste April war. Denn der Abend, an dem wir das letzte Mal zusammen waren, ist mir gewissermaßen unvergeßlich geblieben und hat noch in der Erinnerung einen seltsamen Zauber.
+first 50 characters of quote: EDUARD: Willst du nicht Platz nehmen? (Georg bleib
+book URLs:['https://www.projekt-gutenberg.org/kleist/marionet']
+
+*****************************************************************************
+
+title from JSON: Walpurgisnacht
+author: Gustav Meyrink
+quote: Beim Hinundherwandern blieb sein Blick zufällig auf dem Abreißkalender über dem Bett haften, und verblüfft las er, daß dort immer noch der 30. April, das niederträchtige Datum der Walpurgisnacht, hing.
+first 50 characters of quote: Beim Hinundherwandern blieb sein Blick zufällig au
+book URLs:['https://www.projekt-gutenberg.org/kraus/walpurgi']
+
+*****************************************************************************
+
+title from JSON: Der ewige Spießer
+author: Ödön von Horváth
+quote: Sie fühlte sich zutiefst gekränkt und in ihren heiligsten Gefühlen verletzt, wenn sie sah, daß sich ein Arbeiter ein Glas Bier leisten konnte. Sie wurde schon rabiat, wenn sie nur einen demokratischen Leitartikel las. Es war kaum mit ihr auszuhalten am 1. Mai.
+first 50 characters of quote: Sie fühlte sich zutiefst gekränkt und in ihren hei
+book URLs:['https://www.projekt-gutenberg.org/horvath/spiesser']
+
+*****************************************************************************
+
+title from JSON: Heinrich Stillings Jünglingsjahre
+author: Johann Heinrich Jung-Stilling
+quote: Den ersten Mai 1772 des Nachmittags wanderte Stilling mit seiner Christine zu Fuß nach Schönenthal und Herr Friedenberg begleitete sie; die ganze Natur war still, der Himmel heiter, die Sonne schien über Berg und Tal und ihre warme Frühlingsstrahlen entfalteten Kräuter, Blätter und Blüten.
+first 50 characters of quote: Den ersten Mai 1772 des Nachmittags wanderte Still
+book URLs:['https://www.projekt-gutenberg.org/jungstil/stjuengl']
+
+*****************************************************************************
+
+title from JSON: Hypatia
+author: Fritz Mauthner
+quote: In diesem Zustande seiner Seele war es, daß Isidoros eines Tages, eben am ersten Mai, kurz vor Sonnenuntergang in der Halle des zweiten Hofes saß und las. Nicht weit von ihm spielten kleine Mädchen zuerst Ringelringelrosenkranz und dann Verstecken. Es störte ihn nicht einmal. Plötzlich schoß eines der Kinder wie ein Windspiel um ein Gebüsch von Rosenlorbeer herum auf ihn zu und duckte sich, schelmisch lächelnd, hinter seinem großen Folianten nieder.
+first 50 characters of quote: In diesem Zustande seiner Seele war es, daß Isidor
+book URLs:['https://www.projekt-gutenberg.org/mauthner/hypatia']
+
+*****************************************************************************
+
+title from JSON: Seit ich zuerst sie sah
+author: Karl Gjellerup
+quote: Am Nachmittag des dritten Mai, als alle Gärten und Anlagen grünten, nahm ich meinen gewöhnlichen Spaziergang nach dem Großen Garten hinaus.Am Anfang der Bürgerwiese wurde mein Blick von einem Porträt gefesselt, das in dem Fenster eines Antiquitätenhändlers aushing.Ich stürzte hinüber: Richtig, es war Stephensens Pastellbild von Minna.Aber wie sah es aus! (…)Ich trat in den dunklen Laden, wo man sich vor altem Gerümpel kaum rühren konnte.
+first 50 characters of quote: Am Nachmittag des dritten Mai, als alle Gärten und
+book URLs:['https://www.projekt-gutenberg.org/gjelleru/seitsah']
+
+*****************************************************************************
+
+title from JSON: Nostromo
+author: Joseph Conrad
+quote: Am fünften Mai, während ich tatsächlich im Hafenkontor meiner Gesellschaft wie gefangen war, hörte ich plötzlich vom Güterbahnhof, eine Viertelmeile weit weg, den Pfiff einer Maschine. Ich wollte meinen Ohren nicht trauen.
+first 50 characters of quote: Am fünften Mai, während ich tatsächlich im Hafenko
+book URLs:['https://www.projekt-gutenberg.org/conrad/nostromo']
+
+*****************************************************************************
+
+title from JSON: Drei Schwestern
+author: Anton Pawlowitsch Tschechow
+quote: OLGA: Heut’ vor einem Jahr ist der Vater gestorben – gerade an Deinem Namenstag, Irina, am fünften Mai. Es war sehr kalt an dem Tage – es schneite sogar. Ich glaubte nicht, daß ich’s überleben würde, – Du lagst ohnmächtig da, wie tot. Und nun ist kaum ein Jahr vergangen – und wir reden davon so gleichgiltig, Du hast schon Dein weißes Kleid an, und Dein Gesicht strahlt.
+first 50 characters of quote: OLGA: Heut’ vor einem Jahr ist der Vater gestorben
+book URLs:['https://www.projekt-gutenberg.org/cechov/3schwest']
+
+*****************************************************************************
+
+title from JSON: Der Horla
+author: Guy de Maupassant
+quote: O, ich erinnere mich jetzt, ich erinnere mich des wunderschönen brasilianischen Dreimasters, der am letzten 8. Mai die Seine herauf unter meinen Fenstern vorüber fuhr. Ich fand ihn damals so hübsch, so hell, so freundlich. Das Wesen war darauf. Es kam von da drüben, wo es herstammt, es hat mich gesehen, hat mein Weißes Haus gesehen und ist vom Schiff in den Strom gesprungen. O mein Gott! Mein Gott!Nun weiß ich Alles. Nun errate ich es. Die Zeit, da der Mensch herrschte, ist vorüber.
+first 50 characters of quote: O, ich erinnere mich jetzt, ich erinnere mich des 
+book URLs:['https://www.projekt-gutenberg.org/maupassa/horla']
+
+*****************************************************************************
+
+title from JSON: Auf zwei Planeten
+author: Kurd Laßwitz
+quote: Am 12. Mai beschloß das Parlament unter Zustimmung des Zentralrats folgendes:»Da die Menschen nicht fähig sind, aus eigener Macht unter sich einen friedlichen Kulturzustand zu erhalten, sieht sich die Regierung der Marsstaaten gezwungen, hiermit das Protektorat über die gesamte Erde zu erklären und jede politische Aktion der Erdstaaten untereinander, ohne vorherige Zustimmung der Marsstaaten, zu verbieten.«
+first 50 characters of quote: Am 12. Mai beschloß das Parlament unter Zustimmung
+book URLs:['https://www.projekt-gutenberg.org/lasswitz/auf2pl-1', 'https://www.projekt-gutenberg.org/lasswitz/auf2pl-2']
+
+*****************************************************************************
+
+title from JSON: Glanz und Elend der Kurtisanen
+author: Honoré de Balzac
+quote: Mein Liebling, ich will nicht, daß Du lange Klagen erhebst, wenn Du von meinem Tode erfährst. Zunächst muß ich Dir sagen, daß die elfte Stunde am Montag des 13. Mai nur der Abschluß einer langen Krankheit ist, die begann, als Ihr mich auf der Terrasse von Saint-Germain in meine alte Laufbahn zurückstießet…
+first 50 characters of quote: Mein Liebling, ich will nicht, daß Du lange Klagen
+book URLs:['https://www.projekt-gutenberg.org/balzac/kurtisan']
+
+*****************************************************************************
+
+title from JSON: Das Werk
+author: Émile Zola
+quote: Am 15. Mai schlief Claude noch um neun Uhr, – denn er war erst um drei Uhr morgens von Sandoz zurückgekommen – als Frau Joseph ihm einen großen Strauß weißen Flieders brachte, den ein Stadtbote gebracht hatte. Er begriff; Christine beglückwünschte ihn im voraus zu dem Erfolge seines Gemäldes; es war heute ein großer Tag für ihn: die Eröffnung des »Salons der Zurückgewiesenen«, eine Einrichtung, die in jenem Jahre geschaffen wurde und wo sein von den offiziellen Richtern abgewiesenes Bild ausgestellt werden sollte.
+first 50 characters of quote: Am 15. Mai schlief Claude noch um neun Uhr, – denn
+book URLs:['https://www.projekt-gutenberg.org/gorki/werkarta']
+
+*****************************************************************************
+
+title from JSON: Ohne Dogma
+author: Henryk Sienkiewicz
+quote: Das Wetter ist wieder herrlich, die Wege sind wieder trocken, und heute ist denn auch unser Besuch gekommen.An diesen fünfzehnten Mai werde ich lange denken, denn er ist ein Tag von großer Wichtigkeit in meinem Leben geworden.Die Damen waren sehr heiter gestimmt. Klara trug ein helles gestreiftes Kleid, in welchem ihre Figur nicht ganz so groß erschien. Übrigens war Anielka erstaunt über ihre Schönheit, denn davon hatte ich noch nie gesprochen, wie ich ja manches kaum beachtet hatte, weil eben mein ganzes Sinnen sich auf Anielka konzentriert.
+first 50 characters of quote: Das Wetter ist wieder herrlich, die Wege sind wied
+book URLs:['https://www.projekt-gutenberg.org/sienkiew/ohnedogm']
+
+*****************************************************************************
+
+title from JSON: Walpurgisnacht
+author: Gustav Meyrink
+quote: Jedes Jahr am 16. Mai, zum Fest des heiligen Johann von Nepomuk, des Schutzpatrons von Böhmen, pflegte, angeordnet vom Hausherrn selbst, im Erdgeschoß des Palais Elsenwanger ein großes Gesindeessen stattzufinden, dem nach uralter Hradschiner Sitte die Herrschaft in eigener Person vorzusitzen gedachte.In dieser Nacht, beginnend punkt 8 Uhr und abschließend mit dem letzten Schlag der zwölften Stunde, galten alle Standesunterschiede zwischen Herr und Diener als aufgehoben: Man aß und trank gemeinsam, redete einander mit »Du« an und gab sich die Hand.
+first 50 characters of quote: Jedes Jahr am 16. Mai, zum Fest des heiligen Johan
+book URLs:['https://www.projekt-gutenberg.org/kraus/walpurgi']
+
+*****************************************************************************
+
+title from JSON: Nostromo
+author: Joseph Conrad
+quote: Am siebzehnten Mai, gerade zwölf Tage, nachdem ich den Mann aus der Casa Viola auf die Maschine klettern gesehen und mich gewundert hatte, was es bedeuten sollte – am siebzehnten Mai also liefen Barrios’ Transportdampfer in diesen Hafen ein, und das ›Schatzhaus der Welt‹, wie der Mann der ›Times‹ in seinem Buch Sulaco nennt, wurde unversehrt für die Zivilisation gerettet – für eine große Zukunft, Herr.
+first 50 characters of quote: Am siebzehnten Mai, gerade zwölf Tage, nachdem ich
+book URLs:['https://www.projekt-gutenberg.org/conrad/nostromo']
+
+*****************************************************************************
+
+title from JSON: Roman eines jungen Mannes
+author: Klabund
+quote: Als Junge von neun Jahren turnte er mit einigen Kameraden im Garten eines Freundes am Reck. Es war ein blauer Maitag, der 17. Mai. Frau Triebolick feierte zu Hause Geburtstag. Immer höher steckten sie die Stange, immer höher, bis sie auf den obersten Sprossen lag.
+first 50 characters of quote: Als Junge von neun Jahren turnte er mit einigen Ka
+book URLs:['https://www.projekt-gutenberg.org/flaubert/jungmann']
+
+*****************************************************************************
+
+title from JSON: Die neuen Argonauten
+author: Franz von Dingelstedt
+quote: Endlich, nachdem es an der Klingel des hart gestörten Wundarztes wohl ein dutzendmal geläutet und Adele wenigstens zwei dutzendmal in dem heißen Bettlein sich umgewandt hatte, brach – »ahnungsgrauend, todesmutig« – der große Morgen an, der Morgen des zweiten Pfingsttages, der Morgen des unvergeßlichen achtzehnten Mai.
+first 50 characters of quote: Endlich, nachdem es an der Klingel des hart gestör
+book URLs:['https://www.projekt-gutenberg.org/dingelst/argonaut']
+
+*****************************************************************************
+
+title from JSON: Der Kuß
+author: Anton Pawlowitsch Tschechow
+quote: Am 20. Mai um acht Uhr Abends hielten alle sechs Batterien der N.schen Reserve-Artilleriebrigade, die sich auf dem Wege ins Sommerlager befanden, in dem Kirchdorf Mestetschki, um dort ihr Nachtquartier zu nehmen.Während des größten Wirrwarrs, als ein Teil der Offiziere sich bei den Kanonen zu schaffen machte und die übrigen auf dem Platz vor der Kirche die Meldungen der Quartiermeister entgegennahmen, zeigte sich hinter der Kirche ein Reiter in Civil auf einem sonderbaren Pferde.
+first 50 characters of quote: Am 20. Mai um acht Uhr Abends hielten alle sechs B
+book URLs:['https://www.projekt-gutenberg.org/sologub/kuss']
+
+*****************************************************************************
+
+title from JSON: Wallenstein
+author: Friedrich Schiller
+quote: KELLERMEISTER:Schweigt mir von diesem Tag, es war der dreiUnd zwanzigste des Mais, da man eintausendSechshundert schrieb und achtzehn. Ist mirs doch,Als wär es heut, und mit dem UnglückstagFings an, das große Herzeleid des Landes.Seit diesem Tag, es sind jetzt sechzehn Jahr,Ist nimmer Fried gewesen auf der Erden –
+first 50 characters of quote: KELLERMEISTER:Schweigt mir von diesem Tag, es war 
+book URLs:['https://www.projekt-gutenberg.org/flex/wallenst']
+
+*****************************************************************************
+
+title from JSON: Verlorene Illusionen
+author: Honoré de Balzac
+quote: Zum achtundzwanzigsten Mai war Lucien vor das Zivilgericht geladen und dort schneller verurteilt, als Desroches geglaubt hatte, denn man ging mit großer Entschiedenheit gegen Lucien vor.
+first 50 characters of quote: Zum achtundzwanzigsten Mai war Lucien vor das Zivi
+book URLs:['https://www.projekt-gutenberg.org/balzac/illusion']
+
+*****************************************************************************
+
+title from JSON: Walpurgisnacht
+author: Gustav Meyrink
+quote: Jedes Frühjahr, genau am 1. Juni, pflegte der Herr kaiserliche Leibarzt zur Kur nach Karlsbad zu fahren und zu diesem Zwecke, da er die Eisenbahn verabscheute, die er für eine jüdische Einrichtung hielt, eine Droschke zu benützen.
+first 50 characters of quote: Jedes Frühjahr, genau am 1. Juni, pflegte der Herr
+book URLs:['https://www.projekt-gutenberg.org/kraus/walpurgi']
+
+*****************************************************************************
+
+title from JSON: Der Schüdderump
+author: Wilhelm Raabe
+quote: Das seltsame Gespräch fand gegen Ende Mai statt; in den ersten Tagen des Juni wurde Hanne Allmann von einer großen Schwäche, verbunden mit leisem Fieber und starker Schlafsucht, befallen, und schon am vierten Juni konnte sie sich nicht mehr in der gewohnten Weise erheben, um für sich und das Pflegekind den kleinen Haushalt weiterzuführen.
+first 50 characters of quote: Das seltsame Gespräch fand gegen Ende Mai statt; i
+book URLs:['https://www.projekt-gutenberg.org/raabe/schuedde']
+
+*****************************************************************************
+
+title from JSON: Das Werk
+author: Émile Zola
+quote: Nach und nach hatten alle frei gebliebenen Teile der Wände sich mit Inschriften und Zeichnungen bedeckt, mit einem immer höher steigenden Schaum, hingeworfen wie auf die Seitenränder eines stets offenen Buches. Es waren Aufträge von Kameraden, Abbildungen von anstößigen Gegenständen, einzelne Worte von solcher Roheit, daß Gendarmen darüber erblaßt wären, dann Sprüche, Rechnungen, Adressen; und alles überragt von einer in großen Buchstaben hingeschriebenen lakonischen Zeile, die den schönsten Platz einnahm und lautete: »Am 7. Juni sagte Gorju, daß er auf den Ehrenpreis pfeife. Gezeichnet: Godemard.«
+first 50 characters of quote: Nach und nach hatten alle frei gebliebenen Teile d
+book URLs:['https://www.projekt-gutenberg.org/gorki/werkarta']
+
+*****************************************************************************
+
+title from JSON: Musik
+author: Frank Wedekind
+quote: KLARA: Meine Mutter ist hier! In diesem Augenblick steigt sie am Bahnhof aus! Jetzt kann sie jeden Moment in der Türe stehen!JOSEF: Deine Mutter?!KLARA: Hier ist ihr Telegramm! – O Gott, o Gott!JOSEF: »Zürich, 10. Juni – bin morgen Abend um vier Uhr bei dir. Bitte, mich vom Bahnhof abzuholen. – Mama.«KLARA: Franz Lindekuh ist auf den Bahnhof gegangen, um meine Mutter, wenn sie aussteigt, so gut es ihm irgend möglich wird, auf alles vorzubereiten. Euch beiden hat er sich natürlich nicht gezeigt, als ihr ausstiegt.JOSEF: Hast du denn deiner Mutter nicht ein Wort davon geschrieben, daß du das Kind hast?
+first 50 characters of quote: KLARA: Meine Mutter ist hier! In diesem Augenblick
+book URLs:['https://www.projekt-gutenberg.org/alejchem/anatewka']
+
+*****************************************************************************
+
+title from JSON: Die Prinzessin von Clèves
+author: Marie-Madeleine de La Fayette
+quote: Man ließ im ganzen Königreiche bekanntmachen, daß das Turnier am fünfzehnten Juni in der Stadt Paris durch seine Allerchristlichste Majestät, durch die Prinzen Alphons von Este, Herzog von Ferrara, Franz von Lothringen, Herzog von Guise, Jacob von Savoyen, Herzog von Nemours eröffnet würde, um allem Kommenden Widerstand zu leisten; und zwar würde der erste Kampf zu Pferde in den Schranken in voller Rüstung mit fünf Lanzenstichen, davon einen für die Damen, beginnen. Den zweiten Kampf mit Säbelhieben, einer gegen einen, zwei gegen zwei, je nach Wunsch der Kampfrichter. Den dritten Kampf zu Fuß mit drei Pikenstichen und sechs Säbelhieben; die Schildhalter würden sich nach Wunsch der Angreifer mit Lanzen, Degen und Piken ausrüsten; wer beim Reiten das Pferd träfe, solle aus der Reihe geschlossen werden.
+first 50 characters of quote: Man ließ im ganzen Königreiche bekanntmachen, daß 
+book URLs:['https://www.projekt-gutenberg.org/lafayett/cleve']
+
+*****************************************************************************
+
+title from JSON: Jahrmarkt der Eitelkeit
+author: William Makepeace Thackeray
+quote: Die Fluchtbewegung dauerte noch immer an, und alle Familien, die Mittel und Wege finden konnten, flohen. Als Joseph am Nachmittag des siebzehnten Juni in Rebekkas Hotel ging, entdeckte er, daß die große Bareacressche Kutsche schließlich doch aus dem porte cochère verschwunden war. Der Graf hatte Mrs. Crawley zum Trotz irgendwie ein Paar Pferde verschaffen können und rollte nun auf dem Wege nach Gent.
+first 50 characters of quote: Die Fluchtbewegung dauerte noch immer an, und alle
+book URLs:['https://www.projekt-gutenberg.org/thackera/jahrm-de', 'https://www.projekt-gutenberg.org/thackera/jahrmd-2', 'https://www.projekt-gutenberg.org/thackera/2jahrma1', 'https://www.projekt-gutenberg.org/thackera/2jahrma2']
+
+*****************************************************************************
+
+title from JSON: Arbeit
+author: Émile Zola
+quote: Weitere zehn Jahre gingen hin, die neue Stadt entwickelte sich zur Vollendung, und mit ihr die neue Gesellschaftsordnung des Friedens und der Gerechtigkeit. Und an einem 20. Juni, am Vorabend eines der großen Arbeitsfeste, die viermal im Jahr stattfanden, hatte Bonnaire eine wunderbare Begegnung.
+first 50 characters of quote: Weitere zehn Jahre gingen hin, die neue Stadt entw
+book URLs:['https://www.projekt-gutenberg.org/engels/anteil']
+
+*****************************************************************************
+
+title from JSON: Das Schicksal des Freiherrn von Leisenbohg
+author: Arthur Schnitzler
+quote: Als fernere Gastspielrollen sang Sigurd Ölse den Siegfried und den Lohengrin. Jedesmal saß Kläre ungerührt in der Loge. Aber der Sänger, der sonst mit niemandem verkehrte als mit dem norwegischen Gesandten, fand sich jeden Nachmittag bei Kläre ein, selten ohne Fräulein Fanny Ringeiser, niemals ohne den Freiherrn von Leisenbohg dort anzutreffen.Am siebenundzwanzigsten Juni trat er als Tristan zum letzten Male auf. Ungerührt saß Kläre in der Theaterloge.
+first 50 characters of quote: Als fernere Gastspielrollen sang Sigurd Ölse den S
+book URLs:['https://www.projekt-gutenberg.org/schnitzl/leisenbo']
+
+*****************************************************************************
+
+title from JSON: 1793
+author: Victor Hugo
+quote: In der Rue du Paon war eine Schenke, die man ein Kaffeehaus nannte. Dieses nunmehr historisch gewordene Kaffeehaus hatte ein Hinterstübchen, wo zuweilen heimlich Männer zusammentraten, welche so mächtig und doch wieder so überwacht waren, daß sie sich scheuten, öffentlich mit einander zu sprechen. (…)Am 28. Juni 1793 saßen in diesem Hinterstübchen drei Männer um einen viereckigen Tisch. Ihre Stühle berührten einander nicht; jeder nahm eine Seite des Tisches ein, so daß die vierte leer stand. Es war ungefähr Abends acht Uhr.
+first 50 characters of quote: In der Rue du Paon war eine Schenke, die man ein K
+book URLs:['https://www.projekt-gutenberg.org/hugo/1793']
+
+*****************************************************************************
+
+title from JSON: Das Schloss
+author: Franz Kafka
+quote: »Ja«, sagte Olga, »Sordini ist sehr bekannt, einer der fleißigsten Beamten, von dem viel gesprochen wird; Sortini dagegen ist sehr zurückgezogen und den meisten fremd. Vor mehr als drei Jahren sah ich ihn zum ersten und letzten Male. Es war am dritten Juli bei einem Fest des Feuerwehrvereins, das Schloß hatte sich auch beteiligt und eine neue Feuerspritze gespendet.«
+first 50 characters of quote: »Ja«, sagte Olga, »Sordini ist sehr bekannt, einer
+book URLs:['https://www.projekt-gutenberg.org/achleitn/moor']
+
+*****************************************************************************
+
+title from JSON: Das Geld
+author: Émile Zola
+quote: Als Saccard am 4. Juli sehr spät, gegen sechs Uhr, sich in die Redaktion der »Hoffnung« begab, traf er daselbst Jantrou nicht an. Dieser führte seit einiger Zeit ein sehr regelloses Leben; er verschwand plötzlich, unternahm lange Streifzüge, von welchen er vernichtet, mit trüben Augen zurückkehrte, ohne daß man wußte, was ihn mehr verheerte, die Dirnen oder der Alkohol. In dem Augenblicke, als Saccard ankam, leerte sich eben die Redaktion; es war nur mehr Dejoie da, der im Vorzimmer, auf einer Ecke seines Tisches seine Mahlzeit einnahm.
+first 50 characters of quote: Als Saccard am 4. Juli sehr spät, gegen sechs Uhr,
+book URLs:['https://www.projekt-gutenberg.org/chester/geldstra']
+
+*****************************************************************************
+
+title from JSON: Roman eines jungen Mannes
+author: Klabund
+quote: Lustschloß Hellbrunn bei Salzburg, das einst Erzbischof Markus Sittikus zu Zeiten des seligen Rokoko für seine Geliebte, die schöne Frau von Mahon hat erbauen lassen und das heutigen Tages seiner neckischen Wasserkünste und seines holden Parkes wegen viel von traum- und gedankenlosen Touristen heimgesucht wird, war am Samstag, den 5. Juli, gegen sechs Uhr abends, der Schauplatz einer seltenen Szene.Durch das Laub der Bäume blinkte nach grauem, regnerischem Tage ein leise orangener Himmel – als die Felsen des Steintheaters im hinteren Teil des Parkes gelegen, sich plötzlich mit bunten mystischen Gestalten bevölkerten.
+first 50 characters of quote: Lustschloß Hellbrunn bei Salzburg, das einst Erzbi
+book URLs:['https://www.projekt-gutenberg.org/flaubert/jungmann']
+
+*****************************************************************************
+
+title from JSON: Der Trotzkopf
+author: Emmy von Rhoden
+quote: »So frage ich euch denn: Wollt ihr mit mir in diesem feierlichen Augenblick geloben, daß ihr heute in drei Jahren zurückkehren wollt? Hier unter der Linde, am siebenten Juli, morgens elf Uhr, soll uns ein frohes Wiedersehen vereinen. Seid ihr mit meinem Vorschlag einverstanden?«»Ja«, riefen alle begeistert, »wir kommen!«»Schwört einen Eid darauf!«Orla hob drei Finger der rechten Hand, und alle übrigen folgten ihrem Beispiel.
+first 50 characters of quote: »So frage ich euch denn: Wollt ihr mit mir in dies
+book URLs:['https://www.projekt-gutenberg.org/rhoden/trotzkpf']
+
+*****************************************************************************
+
+title from JSON: Verirrt in den Zeiten
+author: Oswald Levett
+quote: Am andern Montag nach Peter und Paul, das war am 9. Juli des Jahres 1632, erschien plötzlich in dem Hause eines Ratsherrn von Ansbach ein Mann, den niemand zuvor eintreten, den überhaupt niemand weit und breit je zuvor gesehen hatte. Seine Tracht war völlig unbekannt, nicht nur in Deutschland, sondern auch in fremden Ländern. Die Sprache, die er redete, glich sie auch der deutschen, klang fremd und war zum großen Teile unverständlich. Der Mann behauptete, er stamme aus dem neunzehnten Jahrhundert, habe in dieser Zeit gelebt bis zum Jahre 1906 und sei nun rückversetzt worden.
+first 50 characters of quote: Am andern Montag nach Peter und Paul, das war am 9
+book URLs:['https://www.projekt-gutenberg.org/levett/verirrt']
+
+*****************************************************************************
+
+title from JSON: Der Gast
+author: Rudolf Lindau
+quote: Um dieselbe Zeit empfing Maclean einen unerwarteten und angenehmen Besuch, nämlich den seines flachshaarigen, gesprächigen Freundes Thomas Derrick, mit dem er vor Jahr und Tag die Reise von Liverpool nach Neuyork gemacht hatte. Derrick war auf eine andere Linie versetzt worden und fuhr jetzt zwischen Panama und San Francisco. Er hatte Maclean gleich nach seiner ersten Reise aufgesucht, aber nicht angetroffen und auf der Bank von Kalifornien erfahren, daß jener auf einige Tage in das Innere gegangen sei und voraussichtlich bald wieder nach San Francisco zurückkehren werde.»Wann war das?« fragte Maclean.»Am 18. Juli«, antwortete der Ingenieur.
+first 50 characters of quote: Um dieselbe Zeit empfing Maclean einen unerwartete
+book URLs:['https://www.projekt-gutenberg.org/elvestad/gast']
+
+*****************************************************************************
+
+title from JSON: Die Reise zum Mittelpunkt der Erde
+author: Jules Verne
+quote: Der Professor fand wohl diese Lage sehr einfach; aber der Gedanke, daß ich unter der Masse des Meeres wandelte, machte mir doch etwas Sorge. Jedoch, ob die Ebenen und Gebirge Islands über unserm Kopf waren, oder die Wogen des Atlantischen Meeres, machte im Ganzen wenig Unterschied, wenn nur der Granitbau fest war. (…)Vier Tage darauf, Samstags, 18. Juli, kamen wir Abends in einer Art von geräumiger Grotte an; mein Oheim stellte Hans seine wöchentlichen drei Reichsthaler zu, und es wurde beschlossen, morgen solle Rasttag sein.
+first 50 characters of quote: Der Professor fand wohl diese Lage sehr einfach; a
+book URLs:['https://www.projekt-gutenberg.org/verne/reise', 'https://www.projekt-gutenberg.org/verne/mittelpu']
+
+*****************************************************************************
+
+title from JSON: Der Traum
+author: Émile Zola
+quote: Am Morgen des folgenden Tages erwachte Angelika erst um acht Uhr aus einem wohltätigen und festen Schlummer, wie er nach großer Glückseligkeit eintritt. Sie eilte an das Fenster. Der Himmel war von keinem Wölkchen getrübt, die Hitze war dieselbe, trotzdem am vorigen Abend ein starkes Unwetter vorübergezogen war, das sie sehr geängstigt hatte. (…) Sie kleidete sich hurtig an, um heruntergehen zu können. An diesem Tage, dem 28. Juli, sollte die Prozession des Wunders durch die Straßen von Beaumont wallfahrten.
+first 50 characters of quote: Am Morgen des folgenden Tages erwachte Angelika er
+book URLs:['https://www.projekt-gutenberg.org/grillprz/traumleb']
+
+*****************************************************************************
+
+title from JSON: Der Totschläger
+author: Émile Zola
+quote: Coupeau schüttelte ärgerlich den Kopf. Er würde Lorilleux diesen Abend schon heimbezahlen. Hatte man denn schon je einen solchen Knauser gesehen! Zu glauben, daß man ihm drei Gramm Goldstaub davontragen würde! Diese ganzen Geschichten waren nichts anderes als reiner Geiz. Seine Schwester hatte vielleicht geglaubt, daß er sich nie verheiraten würde, um vier Sous an ihrer Fleischbrühe zu sparen? Sie würde trotzdem am 29. Juli stattfinden. Sie können ihm am Buckel runterrutschen!
+first 50 characters of quote: Coupeau schüttelte ärgerlich den Kopf. Er würde Lo
+book URLs:['https://www.projekt-gutenberg.org/petzold/totschl']
+
+*****************************************************************************
+
+title from JSON: Der Graf von Monte Christo
+author: Alexandre Dumas der Ältere
+quote: Er schrieb an die Wand mit einem Stück von der Decke gelösten Kalk den 30. Juli 1816, und von jetzt an machte er jeden Tag eine Kerbe, um fortlaufend das Datum bestimmen zu können.
+first 50 characters of quote: Er schrieb an die Wand mit einem Stück von der Dec
+book URLs:['https://www.projekt-gutenberg.org/dumasalt/montchr1', 'https://www.projekt-gutenberg.org/dumasalt/montchr2', 'https://www.projekt-gutenberg.org/dumasalt/montchr3', 'https://www.projekt-gutenberg.org/dumasalt/montchr4', 'https://www.projekt-gutenberg.org/dumasalt/montchr5', 'https://www.projekt-gutenberg.org/dumasalt/montchr6', 'https://www.projekt-gutenberg.org/dumasalt/montechr']
+
+*****************************************************************************
+
+title from JSON: Ruhe ist die erste Bürgerpflicht
+author: Willibald Alexis
+quote: Der dritte August, oder die warme Sonne oder das Spiel des Lindenlaubs mußte auf der Brust des Kriegsrats das Erz geschmolzen haben.
+first 50 characters of quote: Der dritte August, oder die warme Sonne oder das S
+book URLs:['https://www.projekt-gutenberg.org/alexis/ruhe']
+
+*****************************************************************************
+
+title from JSON: Der Zusammenbruch
+author: Émile Zola
+quote: Irgendwo in der Nähe von Fröschweiler mußte es heute an diesem unruhigen, stürmischen Sonnabend, den 6. August, zum Gefecht gekommen sein: das lag so in diesem angstvollen, niederdrückenden Himmel, aus dem sich plötzliche Schauer, heftige, mit Angst geschwängerte Windstöße erhoben. Und seit zwei Tagen bereits glaubte die Division, es ginge ins Gefecht, dachten die Leute, die Preußen am Ende dieses Gewaltmarsches von Belfort nach Mülhausen vor sich zu finden.
+first 50 characters of quote: Irgendwo in der Nähe von Fröschweiler mußte es heu
+book URLs:['https://www.projekt-gutenberg.org/huchric/30jahre3']
+
+*****************************************************************************
+
+title from JSON: Fräulein Else
+author: Arthur Schnitzler
+quote: Drei Wochen bin ich jetzt da. Am zwölften August bin ich von Gmunden abgereist. Gmunden war langweilig. Woher hat der Papa das Geld gehabt, Mama und mich aufs Land zu schicken? Und Rudi war sogar vier Wochen auf Reisen. Weiß Gott wo. Nicht zweimal hat er geschrieben in der Zeit. Nie werde ich unsere Existenz verstehen.
+first 50 characters of quote: Drei Wochen bin ich jetzt da. Am zwölften August b
+book URLs:['https://www.projekt-gutenberg.org/schnitzl/else']
+
+*****************************************************************************
+
+title from JSON: Eine Geschichte aus zwei Städten
+author: Charles Dickens
+quote: Selbige Nacht – es war die des vierzehnten August – saß er noch spät an seinem Pult und schrieb zwei glühende Briefe.
+first 50 characters of quote: Selbige Nacht – es war die des vierzehnten August 
+book URLs:['https://www.projekt-gutenberg.org/dickens/2staedte']
+
+*****************************************************************************
+
+title from JSON: Marianne
+author: Ferdinand von Saar
+quote: Der fünfzehnte August war da, und mit ihm hatte sich der Himmel wieder aufgehellt. In den ersten Stunden des Nachmittags erschien ein Wagen, um mich zur Trauung zu fahren; die andern hatten sich schon früher nach dem Hause der Braut begeben. Als ich vor der Kirche hielt, war diese bereits von vielen Neugierigen belagert, und gleich darauf kam eine lange Reihe offener Wagen in Sicht, die auf raschen Rädern Brautleute und Hochzeitsgäste heranbrachten.
+first 50 characters of quote: Der fünfzehnte August war da, und mit ihm hatte si
+book URLs:['https://www.projekt-gutenberg.org/saar/marianne']
+
+*****************************************************************************
+
+title from JSON: Die Beichte eines Toren
+author: August Strindberg
+quote: Noch einmal erhalte ich ihre Verzeihung, und zum Zeichen der Versöhnung schreibe ich ein Frauendrama mit einer großen Rolle, die gar nicht verdorben werden konnte. Am siebzehnten August überreiche ich ihr den Schenkungsakt über das Drama, worin ihr freigestellt wird, das Drama aufführen zu lassen, wo sie wolle, vorausgesetzt, daß man ihr die Wahl der Rolle überlasse. Ich hatte zwei Monate an diesem Geschenk gearbeitet, daß sie ohne ein Wort des Dankes annahm, als ein Opfer, das ihrer Majestät der abgedankten Komödiantin gebühre.
+first 50 characters of quote: Noch einmal erhalte ich ihre Verzeihung, und zum Z
+book URLs:['https://www.projekt-gutenberg.org/strindbe/beichte']
+
+*****************************************************************************
+
+title from JSON: Don Quijote
+author: Miguel de Cervantes
+quote: So geschehen tief inmitten der Sierra Morena, am zweiundzwanzigsten August dieses gegenwärtigen Jahrs.
+first 50 characters of quote: So geschehen tief inmitten der Sierra Morena, am z
+book URLs:['https://www.projekt-gutenberg.org/cervante/quijote1', 'https://www.projekt-gutenberg.org/cervante/quijote2']
+
+*****************************************************************************
+
+title from JSON: Der Kuß
+author: Anton Pawlowitsch Tschechow
+quote: Am 31. August kehrte er aus dem Biwak zurück, aber nicht mit der ganzen Brigade, sondern nur mit zwei Batterien. Während des ganzen Weges träumte er und war erregt, als kehrte er in seine Heimat zurück. Er sehnte sich leidenschaftlich, das komische Pferd, die Kirche, die unaufrichtige Rabbecksche Familie, das dunkle Zimmer wieder zu sehen; die ›innere Stimme‹, die so oft die Verliebten betrügt, flüsterte ihm zu, daß er auch sie wieder sehen würde…
+first 50 characters of quote: Am 31. August kehrte er aus dem Biwak zurück, aber
+book URLs:['https://www.projekt-gutenberg.org/sologub/kuss']
+
+*****************************************************************************
+
+title from JSON: Die Leiden des jungen Werthers
+author: Johann Wolfgang von Goethe
+quote: Am 6. SeptemberEs hat schwer gehalten, bis ich mich entschloß, meinen blauen einfachen Frack, in dem ich mit Lotten zum erstenmale tanzte, abzulegen, er ward aber zuletzt gar unscheinbar. Auch habe ich mir einen machen lassen ganz wie den vorigen, Kragen und Aufschlag, und auch wieder so gelbe Weste und Beinkleider dazu. Ganz will es doch die Wirkung nicht tun. Ich weiß nicht – ich denke, mit der Zeit soll mir der auch lieber werden.
+first 50 characters of quote: Am 6. SeptemberEs hat schwer gehalten, bis ich mic
+book URLs:['https://www.projekt-gutenberg.org/goethe/werther']
+
+*****************************************************************************
+
+title from JSON: Der Unbedeutende
+author: Johann Nestroy
+quote: PETER: Red’ und Antwort, wo waren Sie an dem bewußten Abend?PACKENDORF: Da das vorgebliche Abenteuer Lüge war, steht der unbewiesene siebente Septemberabend wieder als Ihr frischer Ankläger da.MASSENGOLD (streng zu Puffmann): Der siebente September ist keine Kleinigkeit.PACKENDORF: Rechtfertigen Sie sich –MASSENGOLD (aufgebracht): Eh’ ich Sie als Entführungsgehilfen und mutmaßlichen Dokumentradierer den Gerichten überliefere.PUFFMANN (für sich, eine Idee erfassend und Hoffnung schöpfend): So putz’ ich mich vielleicht nochmal heraus.MASSENGOLD (ungeduldig zu Puffmann): Wird’s bald?
+first 50 characters of quote: PETER: Red’ und Antwort, wo waren Sie an dem bewuß
+book URLs:['https://www.projekt-gutenberg.org/nestroy/unbedeut']
+
+*****************************************************************************
+
+title from JSON: Der Schatz
+author: Eduard Mörike
+quote: Halt! wie, wenn heut Sankt Gorgon wäre? (…) Ich riß den Kalender vom Nagel, ich blätterte mit bebender Hand – richtig! Gorgonii, der 9. September! Und daß ich jetzt nicht wie ein Narr vor Freuden in der Stube herumtanzte, den Gläserschrank zusammenschlug, den Kellner umarmte, war alles.
+first 50 characters of quote: Halt! wie, wenn heut Sankt Gorgon wäre? (…) Ich ri
+book URLs:['https://www.projekt-gutenberg.org/daeubler/schatz', 'https://www.projekt-gutenberg.org/daeubler/schatz']
+
+*****************************************************************************
+
+title from JSON: Die Rache
+author: Anton Pawlowitsch Tschechow
+quote: Nachdem seine Frau eingeschlafen war, setzte er sich an den Tisch und schrieb nach langem Grübeln, seine Handschrift entstellend, mit möglichst viel orthographischen Fehlern folgendes: »An den Kaufmann Dulin.Mein Herr!Wenn Häute bis sechs Uhr abens am 12. September in die Marmor vase die in dem Stadtgarten links von der wein Laube steht von ihnen nicht Zweihundert Rubel gelegt werden werden sie tootgeschlagen und ihr Kalanteriewahren Geschäfft wird in die Luft gesprenkt.«
+first 50 characters of quote: Nachdem seine Frau eingeschlafen war, setzte er si
+book URLs:['https://www.projekt-gutenberg.org/wbusch/elefant']
+
+*****************************************************************************
+
+title from JSON: Der Jüngling
+author: Fjodor Michailowitsch Dostojewski
+quote: An diesem 19. September unternahm ich noch etwas Besonderes. (…) Es war kurz nach ein Uhr. Eilig ging ich zu Fuß nach dem angegebenen Hause.
+first 50 characters of quote: An diesem 19. September unternahm ich noch etwas B
+book URLs:['https://www.projekt-gutenberg.org/dostojew/juenglin']
+
+*****************************************************************************
+
+title from JSON: Baumeister Solness
+author: Henrik Ibsen
+quote: HILDE: Jawohl. An welchem Tag hängten Sie den Kranz auf den Turm? Nun? Sagen Sie’s gleich!SOLNESS: Hm – das Datum hab’ ich weiß Gott vergessen. Ich kann nur sagen, daß es vor zehn Jahren war. So zur Herbstzeit.HILDE (nickt mehrmals langsam mit dem Kopf): Es war vor zehn Jahren. Am neunzehnten September.SOLNESS: Das wird’s gewesen sein. So – so, das haben Sie auch noch behalten! (Er hält inne.) Aber warten Sie ein wenig –! Gewiß – heute haben wir auch den neunzehnten September.HILDE: Jawohl. Und die zehn Jahre sind um. Und Sie kamen nicht – wie Sie mir’s versprochen hatten.
+first 50 characters of quote: HILDE: Jawohl. An welchem Tag hängten Sie den Kran
+book URLs:['https://www.projekt-gutenberg.org/ibsen/solness']
+
+*****************************************************************************
+
+title from JSON: Der letzte Komödiant
+author: Karl von Holtei
+quote: Eine Woche lang mied er die Nähe des Gartenhauses unter den Fichten.Am fünfundzwanzigsten September überkam ihn ohne bestimmte Veranlassung die unabweisliche Sehnsucht danach. Er hatte am Abend zuvor den Tell gegeben, den er sich in seiner aufgedrungenen Stellung als »jugendlicher Held« förmlich erflehen müssen, und den ihm Faber nur »abgetreten« aus Rücksicht für die Kasse. Es war ihm damit gelungen, so daß er mit sich zufrieden, ein seltener Fall bei ihm, eine Belohnung verdient zu haben glaubte, und diese bestand in dem seit acht Tagen gemiedenen Wege.
+first 50 characters of quote: Eine Woche lang mied er die Nähe des Gartenhauses 
+book URLs:['https://www.projekt-gutenberg.org/holtei/komoedi1', 'https://www.projekt-gutenberg.org/holtei/komoedi1', 'https://www.projekt-gutenberg.org/holtei/komoedi3']
+
+*****************************************************************************
+
+title from JSON: Frau Marie Grubbe
+author: Jens Peter Jacobsen
+quote: Die Uhr war halb acht am Abend des sechsundzwanzigsten September, als der Knall der Kanonen und die schmetternden Trompetenklänge eines festlichen Marsches zu erkennen gaben, daß beide Majestäten, begleitet von Seiner kurfürstlichen Hoheit, dem Prinzen Johann Georg von Sachsen, und seiner fürstlichen Frau Mutter, sich an der Spitze der vornehmsten Männer und Frauen des Landes vom Schloß durch den Garten hinabbegaben, um dem Ballett beizuwohnen, das dort jetzt seinen Anfang nehmen sollte.
+first 50 characters of quote: Die Uhr war halb acht am Abend des sechsundzwanzig
+book URLs:['https://www.projekt-gutenberg.org/jacobsen/grubbe']
+
+*****************************************************************************
+
+title from JSON: Der Trotzkopf
+author: Emmy von Rhoden
+quote: »Der ernste Abschiedstag war da. Es war der achtundzwanzigste September, morgens elf Uhr, eine Stund vor meiner Abreise. Ich saß in mein Zimmer auf mein Reisekoffer und weinte. Ich war so gefüllt von Kummer, das Herz drückte mir so schwer wie ein Mühlstein in der Brust. Kannst Du Dich das vorstellen?«
+first 50 characters of quote: »Der ernste Abschiedstag war da. Es war der achtun
+book URLs:['https://www.projekt-gutenberg.org/rhoden/trotzkpf']
+
+*****************************************************************************
+
+title from JSON: Hoppla, wir leben!
+author: Ernst Toller
+quote: WAHLLEITER: Ruhig vorne. Man kann seine eigene Stimme nicht verstehen… Wie heißen Sie?ALTE FRAU: Barbara Stilzer.WAHLLEITER: Wo wohnen Sie?ALTE FRAU: Ab ersten Oktober werde ich Schulstraße sieben wohnen.WAHLLEITER: Wo Sie jetzt wohnen, möchte ich wissen.ALTE FRAU: Wenn der Hauswirt glaubt, er könnte mich kujonieren, weil ich mich beschwert hab’ beim Mietsamt… Margaretenstraße elf, vierter Stock.WAHLLEITER: Stimmt.
+first 50 characters of quote: WAHLLEITER: Ruhig vorne. Man kann seine eigene Sti
+book URLs:['https://www.projekt-gutenberg.org/toller/hoppla']
+
+*****************************************************************************
+
+title from JSON: Die Freude am Leben
+author: Émile Zola
+quote: Alles wurde geordnet. Lazare sollte am ersten Oktober abreisen. Jetzt begannen die Ausflüge im September von neuem mit größerem Eifer; die beiden Kameraden wollten ihr schönes Leben der Freiheit würdig beschließen. Sie vergaßen sich bis in die Nacht hinein auf dem Sande der Schatzbucht.
+first 50 characters of quote: Alles wurde geordnet. Lazare sollte am ersten Okto
+book URLs:['https://www.projekt-gutenberg.org/zola/lebensfr']
+
+*****************************************************************************
+
+title from JSON: Der Stechlin (Roman)
+author: Theodor Fontane
+quote: Heute aber war dritter Oktober und ein wundervoller Herbsttag dazu. Dubslav, sonst empfindlich gegen Zug, hatte die Türen aufmachen lassen, und von dem großen Portal her zog ein erquicklicher Luftstrom bis auf die mit weiß und schwarzen Fliesen gedeckte Veranda hinaus.
+first 50 characters of quote: Heute aber war dritter Oktober und ein wundervolle
+book URLs:['https://www.projekt-gutenberg.org/fontane/stechlin']
+
+*****************************************************************************
+
+title from JSON: Der Weißbacher und seine Freud
+author: Ludwig Ganghofer
+quote: Sechs Wochen sah ich den Mickei nimmer – und es wäre mir lieber gewesen, ich hätte ihn überhaupt nicht mehr gesehen. Denn das Wort, das die alte Resl vom ledigen Hof beim Lampelspritzen gesprochen hatte, jenes Wort vom Umsieden der irdischen Freuden und Seligkeiten, sollte sich am Mickei Weißbacher als ein dunkles Omen erweisen.Am vierten Oktober war’s. Und der Jäger mit dem üppigen Haarwuchs und der »driedoppelten Freid« erwartete mich zur Mittagszeit bei dem einsam gelegenen Bergwirtshaus, um mich auf einen schreienden Hirsch zu führen.
+first 50 characters of quote: Sechs Wochen sah ich den Mickei nimmer – und es wä
+book URLs:['https://www.projekt-gutenberg.org/ganghofe/weissbac']
+
+*****************************************************************************
+
+title from JSON: Der einsame Weg
+author: Arthur Schnitzler
+quote: SALA: Guten Morgen, Johanna.JOHANNA: Kommst du zum letztenmal?SALA: Zum letztenmal? Was fällt dir ein? Es hat sich in unsern Dispositionen nicht das Geringste geändert. Heut ist der siebente Oktober, am sechsundzwanzigsten November geht das Schiff von Genua ab.JOHANNA: Du wirst plötzlich von hier verschwunden sein. Ich werde bei der Gartentüre stehen, und sie wird verschlossen bleiben.
+first 50 characters of quote: SALA: Guten Morgen, Johanna.JOHANNA: Kommst du zum
+book URLs:['https://www.projekt-gutenberg.org/schnitzl/einsweg']
+
+*****************************************************************************
+
+title from JSON: Die Heilige und ihr Narr
+author: Agnes Günther
+quote: Und eines Abends vertraut dem Harro der Fürst: »Die Aufführung ist anberaumt auf den zehnten Oktober. Wir haben es doch so weit gebracht, sollen wir es deiner Rose sagen oder nicht? (…) Sie ist jetzt schon so musikselig, sie überfreut sich am Ende.«»Das letztere ist sicher, Vater«, seufzte Harro. »Sie wird sich überfreuen. Vielleicht schon in Gedanken… Und wenn es geschieht, mußt du es sagen, Vater. Es ist dein großartiges Geschenk.«
+first 50 characters of quote: Und eines Abends vertraut dem Harro der Fürst: »Di
+book URLs:['https://www.projekt-gutenberg.org/guenthea/heilige1', 'https://www.projekt-gutenberg.org/guenthea/heilige2']
+
+*****************************************************************************
+
+title from JSON: Die drei Musketiere
+author: Alexandre Dumas der Ältere
+quote: »Die Tagreise war diesmal lang und ermüdend, auch war es kalt; man war am elften Oktober. In dem Dorfe befand sich weder ein Gasthaus noch ein Schloß; die Bauernhäuser waren arm und schmutzig. Marie Michon war eine sehr aristokratische Person und gewöhnt an Wohlgerüche und feine Wäsche. Sie beschloß demnach, im Hause des Maire um Gastfreundschaft zu bitten.« Athos hielt inne. »Oh«, rief die Herzogin, »fahren Sie fort, ich sagte Ihnen schon im voraus, daß ich auf alles gefaßt sei.«
+first 50 characters of quote: »Die Tagreise war diesmal lang und ermüdend, auch 
+book URLs:['https://www.projekt-gutenberg.org/dumasalt/musket', 'https://www.projekt-gutenberg.org/dumasalt/musket-1', 'https://www.projekt-gutenberg.org/dumasalt/musket-2', 'https://www.projekt-gutenberg.org/dumasalt/musket10']
+
+*****************************************************************************
+
+title from JSON: Fräulein Julie
+author: August Strindberg
+quote: CHRISTINE: Aber hier will ich nicht länger bleiben, und zum vierundzwanzigsten Oktober geh ich meines Wegs.JEAN: Und dann?CHRISTINE: Ja, da wir gerade davon reden, es wäre an der Zeit, daß du dich nach etwas anderem umsiehst, da wir uns doch verheiraten wollen.JEAN: Ja, wonach sollte ich mich umsehen? Eine so gute Stelle kann ich nicht bekommen, wenn ich verheiratet bin.CHRISTINE: Selbstverständlich nicht! Und du mußt wohl eine Portierstelle annehmen, oder sehen, als Diener an einem öffentlichen Institut Anstellung zu erhalten. Der Kronenkuchen ist knapp, aber sicher, und dann bekommen dort Frau und Kinder Pension –
+first 50 characters of quote: CHRISTINE: Aber hier will ich nicht länger bleiben
+book URLs:['https://www.projekt-gutenberg.org/strindbe/julie']
+
+*****************************************************************************
+
+title from JSON: Die Leiden des jungen Werthers
+author: Johann Wolfgang von Goethe
+quote: Am 27. OktoberIch möchte mir oft die Brust zerreißen und das Gehirn einstoßen, daß man einander so wenig sein kann. Ach die Liebe, Freude, Wärme und Wonne, die ich nicht hinzubringe, wird mir der andere nicht geben, und mit einem ganzen Herzen voll Seligkeit werde ich den andern nicht beglücken, der kalt und kraftlos vor mir steht.Am 27. Oktober abendsIch habe so viel, und die Empfindung an ihr verschlingt alles; ich habe so viel, und ohne sie wird mir alles zu Nichts.
+first 50 characters of quote: Am 27. OktoberIch möchte mir oft die Brust zerreiß
+book URLs:['https://www.projekt-gutenberg.org/goethe/werther']
+
+*****************************************************************************
+
+title from JSON: Robinson Crusoe
+author: Daniel Defoe
+quote: Den 31. Oktober ging ich des Morgens mit meinem Gewehr auf der Insel umher, um zu jagen und das Land auszukundschaften. Ich erlegte eine Ziegengeis und das Junge folgte mir nach meiner Wohnung, wo ich es später schlachten mußte, da es nicht fressen wollte.
+first 50 characters of quote: Den 31. Oktober ging ich des Morgens mit meinem Ge
+book URLs:['https://www.projekt-gutenberg.org/defoe/crusoe']
+
+*****************************************************************************
+
+title from JSON: Robinson Crusoe
+author: Daniel Defoe
+quote: Den 1. November. Ich schlug mein Zelt unter dem Felsen auf und schlief dort die Nacht zum ersten Mal. Ich habe es so groß als möglich gemacht, um meine Hängematte darin an Pfählen aufhängen zu können.
+first 50 characters of quote: Den 1. November. Ich schlug mein Zelt unter dem Fe
+book URLs:['https://www.projekt-gutenberg.org/defoe/crusoe']
+
+*****************************************************************************
+
+title from JSON: Doktor Pascal
+author: Émile Zola
+quote: Er hatte sich wieder an seinen Schreibtisch gesetzt und schrieb einfach: »Ich erwarte Dich. Reise heute abend.«»Nicht wahr«, begann er dann von neuem, »wir schreiben heute den sechsten November? Es ist beinahe zehn Uhr; sie wird die Depesche gegen zwölf Uhr erhalten. Das gibt ihr hinreichend Zeit, ihre Koffer zu packen und heute abend um acht Uhr den Schnellzug zu benutzen, der morgen früh zum Frühstück in Marseille sein wird.«
+first 50 characters of quote: Er hatte sich wieder an seinen Schreibtisch gesetz
+book URLs:['https://www.projekt-gutenberg.org/zola/pascal']
+
+*****************************************************************************
+
+title from JSON: Master Humphreys Wanduhr
+author: Charles Dickens
+quote: All das hatte er jedoch längst vergessen, wie es sich (…) für einen Lord-Major in spe geziemt; nie in seinem ganzen Leben vergaß er es übrigens mehr, als am achten November im Jahr seiner Erwählung für den großen, goldenen Bürgerstuhl, dem Tage vor seinem großen Gastmahl in Guildhall.Desselbigen Abends saß er zufällig ganz allein in seinem Comptoir, überblickte den Speiszettel für den folgenden Tag (…), als er in dieser einsamen aber vergnüglichen Beschäftigung durch einen Mann gestört wurde, der hereintrat und nach seinem Befinden fragte, indem er beifügte:»Wenn ich nur halb so verändert bin, wie Sie, Sir, so werden Sie sich meiner kaum mehr entsinnen können.«
+first 50 characters of quote: All das hatte er jedoch längst vergessen, wie es s
+book URLs:['https://www.projekt-gutenberg.org/dickens/wanduhr1', 'https://www.projekt-gutenberg.org/dickens/wanduhr2']
+
+*****************************************************************************
+
+title from JSON: Der tote Gast
+author: Heinrich Zschokke
+quote: Der neue Hauptmann hatte vielerlei Geschäfte abzutun. Er hatte Erlaubnis empfangen, seinen General zu besuchen. Er hatte mit seinem Vorgänger mancherlei in Sachen der Kompanie zu verrechnen. Das machte eine Abwesenheit von einigen Wochen nötig. (…) Waldrich und Friederike schienen ebenso, wie sonst, wenn sie etwa in eine Gesellschaft oder er zur Parade ging. Nur erinnerte sie ihn noch, daß er nicht zu ihrem Geburtsfeste fehlen müsse, am zehnten November.
+first 50 characters of quote: Der neue Hauptmann hatte vielerlei Geschäfte abzut
+book URLs:['https://www.projekt-gutenberg.org/zschokke/totegast']
+
+*****************************************************************************
+
+title from JSON: Der Chinese
+author: Friedrich Glauser
+quote: Schon damals, vor vier Monaten, erzählte mir der Fremde, sein Leben sei bedroht; er hoffe, daß ich die Untersuchung über seinen Mord führen werde… (…) Hernach vergaß ich die merkwürdige Szene, bis ich vier Monate später, auf den Tag genau, am 18. November, vom Statthalter Ochsenbein aufgefordert wurde, einen geheimnisvollen Mord aufzuklären, der auf dem Friedhof von Pfründisberg passiert war…
+first 50 characters of quote: Schon damals, vor vier Monaten, erzählte mir der F
+book URLs:['https://www.projekt-gutenberg.org/glauser/chinese']
+
+*****************************************************************************
+
+title from JSON: Der Kuß von Sentze
+author: Adalbert Stifter
+quote: Und am zwanzigsten Tage des Monates November war vor allen näheren und ferneren Verwandten die Vermählung in der Kapelle der roten Sentze.Als wir nach der Feierlichkeit uns in dem Saal versammelt hatten, ich in der schweren Kleidung der Palsentze, und Hiltiburg in einem reicheren Schmucke, als sie je einen gehabt, und als wir uns auf den Befehl unserer Väter den Kuß der Ehe gegeben hatten, rief mein Vater: »Das ist ein Liebeskuß der Palsentze, möge nie mehr in dem Geschlechte not sein, daß ein Friedenskuß gegeben werde.«Hier hört die Schrift der Sentze auf.
+first 50 characters of quote: Und am zwanzigsten Tage des Monates November war v
+book URLs:['https://www.projekt-gutenberg.org/stifter/sentze']
+
+*****************************************************************************
+
+title from JSON: Die Leiden des jungen Werthers
+author: Johann Wolfgang von Goethe
+quote: Am 22. NovemberIch kann nicht beten: »Laß mir sie!« und doch kommt sie mir oft als die Meine vor. Ich kann nicht beten: »Gib mir sie!« denn sie ist eines andern. Ich witzle mich mit meinen Schmerzen herum; wenn ich mir’s nachließe, es gäbe eine ganze Litanei von Antithesen.
+first 50 characters of quote: Am 22. NovemberIch kann nicht beten: »Laß mir sie!
+book URLs:['https://www.projekt-gutenberg.org/goethe/werther']
+
+*****************************************************************************
+
+title from JSON: Die Leiden des jungen Werthers
+author: Johann Wolfgang von Goethe
+quote: Am 24. NovemberSie fühlt, was ich dulde. Heute ist mir ihr Blick tief durchs Herz gedrungen. Ich fand sie allein; ich sagte nichts, und sie sah mich an. Und ich sah nicht mehr in ihr die liebliche Schönheit, nicht mehr das Leuchten des trefflichen Geistes, das war alles vor meinen Augen verschwunden. Ein weit herrlicherer Blick wirkte auf mich, voll Ausdruck des innigsten Anteils, des süßesten Mitleidens. Warum durft’ ich mich nicht ihr zu Füßen werfen? Warum durft’ ich nicht an ihrem Halse mit tausend Küssen antworten? Sie nahm ihre Zuflucht zum Klavier und hauchte mit süßer, leiser Stimme harmonische Laute zu ihrem Spiele.
+first 50 characters of quote: Am 24. NovemberSie fühlt, was ich dulde. Heute ist
+book URLs:['https://www.projekt-gutenberg.org/goethe/werther']
+
+*****************************************************************************
+
+title from JSON: Judith Trachtenberg
+author: Karl Emil Franzos
+quote: Er setzte sich ihr gegenüber, schlürfte den Tee und begann mit gepreßter Stimme den schönen Morgen zu preisen. »Wie ein Frühlingstag bei uns!« schloß er. »Und wir sind tief im Spätherbst.«»Ja«, erwiderte sie mit zitternder Stimme, »es ist der dreißigste November.«»Schon?« erwiderte er gleichmütig. »Wie rasch die Zeit…« Er brachte den Satz nicht zu Ende. Ihr seltsamer Ton kam ihm ins Bewußtsein, und als er sie ansah… »Mein Gott!« rief er und setzte sich neben sie und zog sie in seine Arme. »Verzeih!… Wie ich’s nur vergessen konnte! Unser Hochzeitstag…«
+first 50 characters of quote: Er setzte sich ihr gegenüber, schlürfte den Tee un
+book URLs:['https://www.projekt-gutenberg.org/franzos/trachten']
+
+*****************************************************************************
+
+title from JSON: Der Golem
+author: Gustav Meyrink
+quote: Pünktlich am ersten Dezember, wo sich der Tag des Unglücks jährte, das den alten Mann betroffen hatte, fand jedesmal nachts beim »Loisitschek« eine seltsame Feier statt. Kopf an Kopf gedrängt standen sie hier: Bettler, Vagabunden, Zuhälter und Dirnen, Trunkenbolde und Lumpensammler, und eine lautlose Stille herrschte wie beim Gottesdienst.
+first 50 characters of quote: Pünktlich am ersten Dezember, wo sich der Tag des 
+book URLs:['https://www.projekt-gutenberg.org/meyrink/golem']
+
+*****************************************************************************
+
+title from JSON: Gullivers Reisen
+author: Jonathan Swift
+quote: Am 5. Dezember 1715 warfen wir gegen neun Uhr morgens auf der Rhede der Downs Anker, und um drei Uhr nachmittags erreichte ich wohlbehalten mein Haus zu Rotherhith.
+first 50 characters of quote: Am 5. Dezember 1715 warfen wir gegen neun Uhr morg
+book URLs:['https://www.projekt-gutenberg.org/swift/gulliver']
+
+*****************************************************************************
+
+title from JSON: Die Rückkehr der Zeitmaschine
+author: Egon Friedell
+quote: »Mit einem Male glaubte ich alles zu verstehen. Ich war gar nicht im dritten Mai, ich war wirklich im sechsten Dezember! In Gedanken versunken, hatte ich offenbar gar nicht beachtet, daß ich schon weitergeglitten war. Vielleicht auch hatte ich unversehens den Hebel berührt und das Tempo beschleunigt.«
+first 50 characters of quote: »Mit einem Male glaubte ich alles zu verstehen. Ic
+book URLs:['https://www.projekt-gutenberg.org/friedell/zeitmasc']
+
+*****************************************************************************
+
+title from JSON: Der Hungerpastor
+author: Wilhelm Raabe
+quote: Am neunten Dezember, morgens acht Uhr, fand Jean seinen Herrn vollständig angekleidet, im schwarzen Frack und mit weißer Halsbinde, tot vor seinem Schreibtisch sitzend und erfüllte das Haus mit seinem Geschrei. Die Frau Geheime Rätin kam und war sehr gefaßt; sie sandte zu dem Hausarzt, der auch nur sagen konnte, daß der Herr Geheime Rat tot sei, und dann sandte sie zu ihrem Notar.
+first 50 characters of quote: Am neunten Dezember, morgens acht Uhr, fand Jean s
+book URLs:['https://www.projekt-gutenberg.org/raabe/hungerpa']
+
+*****************************************************************************
+
+title from JSON: Die Leiden des jungen Werthers
+author: Johann Wolfgang von Goethe
+quote: Montags früh, den einundzwanzigsten Dezember, schrieb er folgenden Brief an Lotten, den man nach seinem Tode versiegelt auf seinem Schreibtische gefunden und ihr überbracht hat, und den ich absatzweise hier einrücken will, so wie aus den Umständen erhellet, daß er ihn geschrieben habe.
+first 50 characters of quote: Montags früh, den einundzwanzigsten Dezember, schr
+book URLs:['https://www.projekt-gutenberg.org/goethe/werther']
+
+*****************************************************************************
+
+title from JSON: Der Hungerpastor
+author: Wilhelm Raabe
+quote: Grips wurde nach Freudenstadt gesendet, um allerlei notwendige Dinge zu holen. Mit hochbepacktem Schlitten kam er zurück und bewies, daß er ein Mann von Geschmack, wenn auch vielleicht ein wenig zu sehr »für das Bunte« sei. Es wurde viel geklopft und gehämmert auf Haus Grunzenow; der weibliche Hausstand wurde vermehrt und verbessert. Am dreiundzwanzigsten Dezember war alles zum Empfang des jungen Gastes bereit, und das Stübchen, welches der Kandidat und demnächstige Adjunktus, Hans Unwirrsch, auf der Hungerpfarre bewohnen sollte, war ebenfalls aufs beste ausgekehrt und eingerichtet.
+first 50 characters of quote: Grips wurde nach Freudenstadt gesendet, um allerle
+book URLs:['https://www.projekt-gutenberg.org/raabe/hungerpa']
+
+*****************************************************************************
+
+title from JSON: Der Doppelgänger
+author: Edgar Wallace
+quote: Mr. Superbus saß am offenen Fenster seines Wohnzimmers und dachte tief nach. Trotz der kühlen Witterung des Tages war er in Hemdsärmeln, denn er zählte zu jenen heißblütigen Männern, denen das kühlere Klima nichts anhaben kann. Es war ein offenes Geheimnis, daß er einer der abgehärteten Männer war, die im Serpentine-Teich im Hydepark an jedem ersten Weihnachtstag ein Bad nahmen, selbst wenn sie die Eisdecke einschlagen mußten. Mit monotoner Regelmäßigkeit erschien sein Bild an jedem 26. Dezember in den illustrierten Zeitungen.
+first 50 characters of quote: Mr. Superbus saß am offenen Fenster seines Wohnzim
+book URLs:['https://www.projekt-gutenberg.org/dostojew/doppelga']
+
+*****************************************************************************
+
+title from JSON: Der brave Soldat Schwejk
+author: Jaroslav Hašek
+quote: »Ich hab Gott lieb«, ließ sich der fromme Feldkurat vernehmen und begann zu rülpsen, »sehr lieb hab ich ihn. Geben Sie mir ein bißchen Wein. (…) Gott ist etwas Erhabenes, etwas Überirdisches. Er ist ehrenhaft in seinen Angelegenheiten. Er ist eine sonnige Erscheinung, das wird mir niemand ausreden. Auch den heiligen Josef schätz ich mir, alle Heiligen schätz ich mir, bis auf den heiligen Serapion. Er hat so einen häßlichen Namen.«»Er sollt um Änderung ansuchen«, bemerkte Schwejk. (…)Die Unterhaltung schlug eine andere Richtung ein. Der fromme Kurat begann wirr durcheinanderzureden: »Die unschuldigen Kinder schätz ich mir, sie haben ihren Feiertag am 28. Dezember. Herodes haß ich. – Wenn die Henne schläft, kann man keine frischen Eier bekommen.«Er brach in ein Gelächter aus und fing an zu singen: »Heiliger Gott, heiliger, starker.«
+first 50 characters of quote: »Ich hab Gott lieb«, ließ sich der fromme Feldkura
+book URLs:['https://www.projekt-gutenberg.org/hasek/schwejk']
+
+*****************************************************************************
+
+title from JSON: Bel-Ami
+author: Guy de Maupassant
+quote: »Also, übermorgen ist der 1. Januar.«»Ja.«»Der Tag der Neujahrsgeschenke.«»Ja.«»Hier hast du deins, das Laroche mir vorhin übergeben hat.«Sie reichte ihm eine kleine schwarze Schachtel, die wie ein Schmucketui aussah.
+first 50 characters of quote: »Also, übermorgen ist der 1. Januar.«»Ja.«»Der Tag
+book URLs:['https://www.projekt-gutenberg.org/maupassa/belami', 'https://www.projekt-gutenberg.org/maupassa/liebling']
+
+*****************************************************************************
+
