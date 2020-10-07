@@ -94,16 +94,17 @@ def find_right_page(url_list, item):
                         print_both('searching chapter...')
                         match_percent = 100 if quote_substr.lower() in text.lower() \
                             else fuzz.partial_ratio(q.lower(), text.lower())
+                        print_both(match_percent, '% partial match')
                         if match_percent >= 80:
                             # TODO: find out why actual 100% matches get a 40-50% partial match score:
                             #  https://stackoverflow.com/questions/39729225/getting-incorrect-score-from-fuzzy-wuzzy-partial-ratio
                             found_quote = True
                             quotes_found += 1
-                            print_both('found quote! (', match_percent, '% match)', sep='')
-                            print_both('\n', quotes_found, 'quote(s) found')
+                            print_both('found quote!\n')
+                            print_both(quotes_found, 'quote(s) found')
                             return chapter_url
                         else:
-                            print_both('wrong chapter..')
+                            print_both('wrong chapter...\n', )
             except urllib.error.HTTPError as e:
                 print_both(e.code)
     if not found_quote:
@@ -164,7 +165,7 @@ def main():
     print(len(quotes), 'quotes in total\n')
     updated_quotes = replace_links(quotes)
     print_both('\n', len(quotes), 'quotes in database.\n')
-    update_json(path='results/replace_test.json', content=updated_quotes)
+    update_json(path='results/replaced_links.json', content=updated_quotes)
 
     end = timer()
     print('\number of accurate links:', len(id_link_dict))
