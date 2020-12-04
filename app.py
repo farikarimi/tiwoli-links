@@ -96,8 +96,6 @@ def find_right_page(url_list, item):
                             else fuzz.partial_ratio(q.lower(), text.lower())
                         print_both(match_percent, '% partial match')
                         if match_percent >= 80:
-                            # TODO: find out why actual 100% matches get a 40-50% partial match score:
-                            #  https://stackoverflow.com/questions/39729225/getting-incorrect-score-from-fuzzy-wuzzy-partial-ratio
                             found_quote = True
                             quotes_found += 1
                             print_both('found quote!\n')
